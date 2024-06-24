@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE byrecht-norm PUBLIC "-//Verlag C.H.Beck/DTD Vorschriften//DE" "http://gesetze-bayern.de/schema/byrecht.normen.dtd">
+<byrecht-norm builddate="12.03.2024_01:18">
+  <kopf>
+    <angaben.versunabh>
+      <dokumentation doktyp="gesetz" dokid="BayDSchG" ersatz="BayDSchG" />
+      <ausfertigung>
+        <ausfertigungsdatum>1973-06-25</ausfertigungsdatum>
+        <fundstelle.GVBl>
+          <jahr />
+          <seite />
+        </fundstelle.GVBl>
+      </ausfertigung>
+    </angaben.versunabh>
+    <angaben.versabh version.id="p">
+      <inkraft>2023-07-01</inkraft>
+      
+      <fassung>
+        <fassungsdatum>1973-06-25</fassungsdatum>
+        <fundstelle.GVBl>
+          <jahr />
+          <seite />
+        </fundstelle.GVBl>
+      </fassung>
+      <gliederungsNr.BayRS>BayRS 2242-1-WK
+</gliederungsNr.BayRS>
+      <kurzbezeichnung>Bayerisches Denkmalschutzgesetz</kurzbezeichnung>
+      <titelangaben>Gesetz zum Schutz und zur Pflege der Denkmäler<br /> (<kurzbezeichnung>Bayerisches Denkmalschutzgesetz</kurzbezeichnung> – <amtlicheAbk>BayDSchG</amtlicheAbk>)<br />Vom 25. Juni 1973<br />(BayRS IV S. 354)<br />BayRS 2242-1-WK
+</titelangaben>
+      <amtlicheAbk>BayDSchG</amtlicheAbk>
+    </angaben.versabh>
+  </kopf>
+  <rumpf>
+    <aenderungsverlauf>
+      <p>Änderungen</p>
+      <ul>
+        <li>
+          <symbol id="x">1.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_1994_0210">§ 5 G zur Vereinfachung und Beschleunigung bau- und wasserrechtlicher Verfahren</v.abk>
+          </verweis.norm>
+         vom 12.4.1994<br />(GVBl. S. 210)</p>
+        </li>
+        <li>
+          <symbol id="x">2.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_1994_622">§ 1 ÄndG</v.abk>
+          </verweis.norm>
+         vom 23.7.1994<br />(GVBl. S. 622)</p>
+        </li>
+        <li>
+          <symbol id="x">3.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayAGSenAbsch">§ 17 G zur Ausführung des G zur Abschaffung des Bayerischen Senates</v.abk>
+          </verweis.norm>
+         vom 16.12.1999<br />(GVBl. S. 521)</p>
+        </li>
+        <li>
+          <symbol id="x">4.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayUVPRLUG">§ 8 G zur Umsetzung der Richtlinie 85/337/EWG über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten</v.abk>
+          </verweis.norm>
+         vom 27.12.1999<br />(GVBl. S. 532)</p>
+        </li>
+        <li>
+          <symbol id="x">5.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayEuroAnpG_2">§ 43 Zweites G zur Anpassung des Landesrechts an den Euro</v.abk>
+          </verweis.norm>
+         vom 24.4.2001<br />(GVBl. S. 140)</p>
+        </li>
+        <li>
+          <symbol id="x">6.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2003_0419">§ 6 Bayerisches BehindertengleichstellungsG und ÄndG</v.abk>
+          </verweis.norm>
+         vom 9.7.2003<br />(GVBl. S. 419)</p>
+        </li>
+        <li>
+          <symbol id="x">7.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2003_0475">§ 1 G zur Änd. denkmalrechtlicher Vorschriften</v.abk>
+          </verweis.norm>
+         vom 24.7.2003<br />(GVBl. S. 475; 2017 S. 70)</p>
+        </li>
+        <li>
+          <symbol id="x">8.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayAbgrGAendG_2007">§ 9 G zur Änd. des Bayerischen AbgrabungsG und anderer Rechtsvorschriften</v.abk>
+          </verweis.norm>
+         vom 20.12.2007<br />(GVBl. S. 958)</p>
+        </li>
+        <li>
+          <symbol id="x">9.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayBOAendG_09_2">§ 3 G zur Änd. der Bayerischen Bauordnung, des BaukammernG und des DenkmalschutzG</v.abk>
+          </verweis.norm>
+         vom 27.7.2009<br />(GVBl. S. 385)</p>
+        </li>
+        <li>
+          <symbol id="x">10.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayDSchGAendG">§ 1 ÄndG</v.abk>
+          </verweis.norm>
+         vom 17.12.2014<br />(GVBl. S. 548)</p>
+        </li>
+        <li>
+          <symbol id="x">11.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2015_0082">§ 2 Nr. 44 G zur Änd. des Bayerischen StatistikG und anderer Rechtsvorschriften</v.abk>
+          </verweis.norm>
+         vom 12.5.2015<br />(GVBl. S. 82)</p>
+        </li>
+        <li>
+          <symbol id="x">12.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2017_0070">G zur Änderung des Denkmalschutzgesetzes</v.abk>
+          </verweis.norm>
+         vom 4.4.2017<br />(GVBl. S. 70)</p>
+        </li>
+        <li>
+          <symbol id="x">13.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2018_0187">G zur Änderung des Bayerischen Denkmalschutzgesetzes</v.abk>
+          </verweis.norm>
+         vom 22.3.2018<br />(GVBl. S. 187)</p>
+        </li>
+        <li>
+          <symbol id="x">14.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2018_0523">§ 3 G zur Änderung der Bayerischen Bauordnung und weiterer Rechtsvorschriften</v.abk>
+          </verweis.norm>
+         vom 10.7.2018<br />(GVBl. S. 523)</p>
+        </li>
+        <li>
+          <symbol id="x">15.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2019_0098">§ 1 Abs. 255 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung</v.abk>
+          </verweis.norm>
+         vom 26.3.2019<br />(GVBl. S. 98)</p>
+        </li>
+        <li>
+          <symbol id="x">16.</symbol>
+          <p>
+          <verweis.norm>
+            
+            <v.abk ersatz="Bay_110_2021_0199">G zur Änderung des Bayerischen Denkmalschutzgesetzes</v.abk>
+          </verweis.norm>
+         vom 23.4.2021<br />(GVBl. S. 199)</p>
+        </li>
+        <li>
+          <symbol id="x">17.</symbol>
+          <p>
+          <verweis.norm>
+            § <v.norm ersatz="Bay_110_2023_0091">7</v.norm> <v.abk ersatz="Bay_110_2023_0091">G zur Änderung des Bayerischen Gesetzes zur Ausführung des Bundesmeldegesetzes und weiterer Rechtsvorschriften</v.abk></verweis.norm>
+         vom 10.3.2023<br />(GVBl. S. 91)</p>
+        </li>
+        <li>
+          <symbol id="x">18.</symbol>
+          <p>
+          <verweis.norm>
+            Art. <v.norm ersatz="BayHG2023">14</v.norm> <v.abk ersatz="BayHG2023">Haushaltsgesetz 2023</v.abk></verweis.norm>
+         vom 21.4.2023<br />(GVBl. S. 128)</p>
+        </li>
+        <li>
+          <symbol id="x">19.</symbol>
+          <p>
+          <verweis.norm>
+            § <v.norm ersatz="Bay_110_2023_0251">1</v.norm> <v.abk ersatz="Bay_110_2023_0251">G zur Änderung des Bayerischen Denkmalschutzgesetzes und weiterer Rechtsvorschriften</v.abk></verweis.norm>
+         vom 23.6.2023<br />(GVBl. S. 251)</p>
+        </li>
+      </ul>
+    </aenderungsverlauf>
+    <normzitat>Bayerisches Denkmalschutzgesetz (BayDSchG) in der in der Bayerischen Rechtssammlung (BayRS 2242-1-WK) veröffentlichten bereinigten Fassung, das zuletzt durch § 1 des Gesetzes vom 23. Juni 2023 (GVBl. S. 251) geändert worden ist</normzitat>
+    <gliederung gliederungsid="G_1" version="p">
+      <gliederung.titel><p>
+        Teil 1 
+        Allgemeine Bestimmungen
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_1"><para.nr>Art. 1</para.nr><para.titel>
+          Begriffsbestimmungen
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>Denkmäler sind von Menschen geschaffene Sachen oder Teile davon aus vergangener Zeit, deren Erhaltung wegen ihrer geschichtlichen, künstlerischen, städtebaulichen, wissenschaftlichen oder volkskundlichen Bedeutung im Interesse der Allgemeinheit liegt.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Baudenkmäler sind bauliche Anlagen oder Teile davon aus vergangener Zeit, soweit sie nicht unter Abs. 4 fallen, einschließlich dafür bestimmter historischer Ausstattungsstücke und mit der in Abs. 1 bezeichneten Bedeutung. <satz.nr id="xx">2</satz.nr>Auch bewegliche Sachen können historische Ausstattungsstücke sein, wenn sie integrale Bestandteile einer historischen Raumkonzeption oder einer ihr gleichzusetzenden historisch abgeschlossenen Neuausstattung oder Umgestaltung sind. <satz.nr id="xx">3</satz.nr>Gartenanlagen, die die Voraussetzungen des Abs. 1 erfüllen, gelten als Baudenkmäler.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>Zu den Baudenkmälern kann auch eine Mehrheit von baulichen Anlagen (Ensemble) gehören, und zwar auch dann, wenn keine oder nur einzelne dazugehörige bauliche Anlagen die Voraussetzungen des Abs. 1 erfüllen, das Orts-, Platz- oder Straßenbild aber insgesamt erhaltenswürdig ist.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>Bodendenkmäler sind bewegliche und unbewegliche Denkmäler, die sich im Boden befinden oder befanden und in der Regel aus vor- oder frühgeschichtlicher Zeit stammen.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_2"><para.nr>Art. 2</para.nr><para.titel>
+          Denkmalliste
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Baudenkmäler und die Bodendenkmäler sollen nachrichtlich in ein Verzeichnis (Denkmalliste) aufgenommen werden. <satz.nr id="xx">2</satz.nr>Die Eintragung erfolgt durch das Landesamt für Denkmalpflege von Amts wegen im Benehmen mit der Gemeinde. <satz.nr id="xx">3</satz.nr>Der Berechtigte und der zuständige Heimatpfleger können die Eintragung anregen. <satz.nr id="xx">4</satz.nr>Die Eintragung ist im Bebauungsplan kenntlich zu machen. <satz.nr id="xx">5</satz.nr>Die Liste kann von jedermann eingesehen werden.</p>
+          
+            
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Auf Antrag des Berechtigten und in besonders wichtigen Fällen können bewegliche Denkmäler, soweit sie nicht nach Abs. 1 eingetragen sind, in das Verzeichnis eingetragen werden.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_3"><para.nr>Art. 3</para.nr><para.titel>
+          Gemeindliche Rücksichtnahme
+        </para.titel><jurAbsatz><absatz.text>
+            <p>Die Gemeinden nehmen bei ihrer Tätigkeit, vor allem im Rahmen der Bauleitplanung, auf die Belange des Denkmalschutzes und der Denkmalpflege, insbesondere auf die Erhaltung von Ensembles, angemessen Rücksicht.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_2" version="p">
+      <gliederung.titel><p>
+        Teil 2 
+        Baudenkmäler
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_4"><para.nr>Art. 4</para.nr><para.titel>
+          Erhaltung von Baudenkmälern
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Eigentümer und die sonst dinglich Verfügungsberechtigten von Baudenkmälern haben ihre Baudenkmäler instandzuhalten, instandzusetzen, sachgemäß zu behandeln und vor Gefährdung zu schützen, soweit ihnen das zuzumuten ist. <satz.nr id="xx">2</satz.nr>Ist der Eigentümer oder der sonst dinglich Verfügungsberechtigte nicht der unmittelbare Besitzer, so gilt Satz 1 auch für den unmittelbaren Besitzer, soweit dieser die Möglichkeit hat, entsprechend zu verfahren.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die in Abs. 1 genannten Personen können verpflichtet werden, bestimmte Erhaltungsmaßnahmen ganz oder zum Teil durchzuführen, soweit ihnen das insbesondere unter Berücksichtigung ihrer sonstigen Aufgaben und Verpflichtungen zumutbar ist; soweit sie die Maßnahmen nicht selbst durchzuführen haben, können sie zur Duldung der Maßnahmen verpflichtet werden. <satz.nr id="xx">2</satz.nr>Entscheidungen, durch die der Bund oder die Länder verpflichtet werden sollen, bedürfen der vorherigen Zustimmung der Obersten Denkmalschutzbehörde.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Macht der Zustand eines Baudenkmals Maßnahmen zu seiner Instandhaltung, Instandsetzung oder zu seinem Schutz erforderlich, ohne daß eine vollstreckbare Entscheidung nach Abs. 2 vorliegt, so kann die zuständige Denkmalschutzbehörde die Maßnahmen durchführen oder durchführen lassen. <satz.nr id="xx">2</satz.nr>Die dinglich und obligatorisch Berechtigten können zur Duldung der Maßnahmen verpflichtet werden. <satz.nr id="xx">3</satz.nr>Die Kosten der Maßnahmen tragen die in Abs. 1 genannten Personen, soweit sie nach Abs. 2 zur Durchführung der Maßnahmen verpflichtet wurden oder hätten verpflichtet werden können, im übrigen der Entschädigungsfonds.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>Handlungen, die ein Baudenkmal schädigen oder gefährden, können untersagt werden.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_5"><para.nr>Art. 5</para.nr><para.titel>
+          Nutzung von Baudenkmälern
+        </para.titel><jurAbsatz><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Baudenkmäler sollen möglichst entsprechend ihrer ursprünglichen Zweckbestimmung genutzt werden. <satz.nr id="xx">2</satz.nr>Werden Baudenkmäler nicht mehr entsprechend ihrer ursprünglichen Zweckbestimmung genutzt, so sollen die Eigentümer und die sonst dinglich oder obligatorisch zur Nutzung Berechtigten eine der ursprünglichen gleiche oder gleichwertige Nutzung anstreben. <satz.nr id="xx">3</satz.nr>Soweit dies nicht möglich ist, soll eine Nutzung gewählt werden, die eine möglichst weitgehende Erhaltung der Substanz auf die Dauer gewährleistet. <satz.nr id="xx">4</satz.nr>Sind verschiedene Nutzungen möglich, so soll diejenige Nutzung gewählt werden, die das Baudenkmal und sein Zubehör am wenigsten beeinträchtigt. <satz.nr id="xx">5</satz.nr>Staat, Gemeinden und sonstige Körperschaften des öffentlichen Rechts sollen Eigentümer und Besitzer unterstützen. <satz.nr id="xx">6</satz.nr>Die Eigentümer und die sonst dinglich oder obligatorisch zur Nutzung Berechtigten können bei Vorliegen der Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayDSchG">4</v.norm> Abs. 2</verweis.norm> verpflichtet werden, eine bestimmte Nutzungsart durchzuführen; soweit sie nicht zur Durchführung verpflichtet werden, können sie zur Duldung einer bestimmten Nutzungsart verpflichtet werden.</p>
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_6"><para.nr>Art. 6</para.nr><para.titel>
+          Maßnahmen an Baudenkmälern
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Wer</p>
+            <ul>
+              <li>
+                <symbol id="x">1.</symbol>
+                <p>Baudenkmäler beseitigen, verändern oder an einen anderen Ort verbringen oder</p>
+              </li>
+              <li>
+                <symbol id="x">2.</symbol>
+                <p>geschützte Ausstattungsstücke beseitigen, verändern, an einen anderen Ort verbringen oder aus einem Baudenkmal entfernen</p>
+              </li>
+            </ul>
+            <p>will, bedarf der Erlaubnis. <satz.nr id="xx">2</satz.nr>Der Erlaubnis bedarf auch, wer in der Nähe von Baudenkmälern Anlagen errichten, verändern oder beseitigen will, wenn sich dies auf Bestand oder Erscheinungsbild eines der Baudenkmäler auswirken kann. <satz.nr id="xx">3</satz.nr>Wer ein Ensemble verändern will, bedarf der Erlaubnis nur, wenn die Veränderung eine bauliche Anlage betrifft, die für sich genommen ein Baudenkmal ist, oder wenn sie sich auf das Erscheinungsbild des Ensembles auswirken kann.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Erlaubnis kann im Fall des Abs. 1 Satz 1 Nr. 1 und 2 versagt werden, soweit gewichtige Gründe des Denkmalschutzes für die unveränderte Beibehaltung des bisherigen Zustands sprechen. <satz.nr id="xx">2</satz.nr>Im Fall des Abs. 1 Satz 2 kann die Erlaubnis versagt werden, soweit das Vorhaben zu einer Beeinträchtigung des Wesens, des überlieferten Erscheinungsbilds oder der künstlerischen Wirkung eines Baudenkmals führen würde und gewichtige Gründe des Denkmalschutzes für die unveränderte Beibehaltung des bisherigen Zustands sprechen. <satz.nr id="xx">3</satz.nr>Dient die Maßnahme der Gewinnung erneuerbarer Energien überwiegend für den Energiebedarf im Baudenkmal oder zu seiner energetischen Verbesserung, kann die Erlaubnis in den Fällen des Satzes 1 oder 2 nur versagt werden, soweit überwiegende Gründe des Denkmalschutzes entgegenstehen und diesen nicht durch Nebenbestimmungen zur Art der Umsetzung Rechnung getragen werden kann.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Ist eine Baugenehmigung oder an ihrer Stelle eine bauaufsichtliche Zustimmung oder abgrabungsaufsichtliche Genehmigung erforderlich, entfällt die Erlaubnis. <satz.nr id="xx">2</satz.nr>Unbeschadet des Satzes 1 entfällt die Erlaubnis bei Bauvorhaben, die die Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 der <v.abk ersatz="BayBO">Bayerischen Bauordnung (BayBO)</v.abk></verweis.norm> erfüllen und bei verfahrensfreien Bauvorhaben, die im Übrigen die Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> erfüllen, wenn das Landesamt für Denkmalpflege dem Bauvorhaben auf Ersuchen der Baudienststelle zugestimmt hat. <satz.nr id="xx">3</satz.nr>Für denkmaltypische Bauprodukte, die in Baudenkmälern verwendet werden sollen, erteilt die untere Bauaufsichtsbehörde die Zustimmung im Einzelfall nach <verweis.norm>Art. <v.norm ersatz="BayBO">20</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>. <satz.nr id="xx">4</satz.nr>Werden denkmaltypische Bauprodukte bei Bauvorhaben verwendet, die die Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> erfüllen, oder in verfahrensfreien Bauvorhaben, die im Übrigen die Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> erfüllen, entscheidet die höhere Bauaufsichtsbehörde.</p>
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>Bei Entscheidungen nach den Abs. 1 bis 3 sind auch die Belange von Menschen mit Behinderung und von Menschen mit sonstigen Mobilitätsbeeinträchtigungen zu berücksichtigen.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Abweichend von Abs. 1 Satz 2 bedarf die Errichtung, Veränderung oder Beseitigung von Windenergieanlagen nur in der Nähe von besonders landschaftsprägenden Baudenkmälern der Erlaubnis. <satz.nr id="xx">2</satz.nr>Die Erlaubnis ist zu versagen, soweit das Vorhaben zu einer Beeinträchtigung des Wesens, des überlieferten Erscheinungsbilds oder der künstlerischen Wirkung des besonders landschaftsprägenden Baudenkmals führen würde und gewichtige Gründe des Denkmalschutzes für die unveränderte Beibehaltung des bisherigen Zustands sprechen.</p>
+          
+            
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_3" version="p">
+      <gliederung.titel><p>
+        Teil 3 
+        Bodendenkmäler
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_7"><para.nr>Art. 7</para.nr><para.titel>
+          Ausgraben von Bodendenkmälern, Verordnungsermächtigung
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Wer auf einem Grundstück nach Bodendenkmälern graben oder zu einem anderen Zweck Erdarbeiten auf einem Grundstück vornehmen will, obwohl er weiß oder vermutet oder den Umständen nach annehmen muß, daß sich dort Bodendenkmäler befinden, bedarf der Erlaubnis. <satz.nr id="xx">2</satz.nr>Er hat die Kosten für die vorherige wissenschaftliche Untersuchung, die Bergung von Funden und die Dokumentation der Befunde zu tragen, soweit ihm das zuzumuten ist. <satz.nr id="xx">3</satz.nr>Die Erlaubnis kann versagt werden, soweit dies zum Schutz eines Bodendenkmals erforderlich ist.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Bezirke können durch Rechtsverordnung bestimmte Grundstücke, in oder auf denen Bodendenkmäler zu vermuten sind, zu Grabungsschutzgebieten erklären. <satz.nr id="xx">2</satz.nr>In einem Grabungsschutzgebiet bedürfen alle Arbeiten, die Bodendenkmäler gefährden können, der Erlaubnis. <satz.nr id="xx">3</satz.nr>Abs. 1 Satz 2 und <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 2 Satz 2 sowie Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 3</verweis.norm> gelten entsprechend. <satz.nr id="xx">4</satz.nr>Grabungsschutzgebiete sind im Flächennutzungsplan kenntlich zu machen.</p>
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>
+              Abs. 1 und Abs. 2 Satz 2 gelten nicht für Grabungen, die vom Landesamt für Denkmalpflege oder unter seiner Mitwirkung vorgenommen oder veranlaßt werden.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Wer in der Nähe von Bodendenkmälern, die ganz oder zum Teil über der Erdoberfläche erkennbar sind, Anlagen errichten, verändern oder beseitigen will, bedarf der Erlaubnis, wenn sich dies auf Bestand oder Erscheinungsbild eines dieser Bodendenkmäler auswirken kann. <satz.nr id="xx">2</satz.nr>Abs. 1 Satz 2 und <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 2 Satz 2 sowie Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 3</verweis.norm> gelten entsprechend. <satz.nr id="xx">3</satz.nr>Abweichend von Satz 1 bedarf die Errichtung, Veränderung oder Beseitigung von Windenergieanlagen der Erlaubnis</p>
+          
+            
+          
+            
+            <ul>
+              <li>
+                <symbol id="x">1.</symbol>
+                <p>in der Nähe von besonders landschaftsprägenden Bodendenkmälern oder</p>
+              </li>
+              <li>
+                <symbol id="x">2.</symbol>
+                <p>wenn sie sich auf den Bestand eines Bodendenkmals auswirken kann.</p>
+              </li>
+            </ul>
+          
+            <p> <satz.nr id="xx">4</satz.nr>In den Fällen des Satzes 3 Nr. 1 gilt <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 5 Satz 2</verweis.norm> entsprechend.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Soll eine Grabung auf einem fremden Grundstück erfolgen, so kann der Eigentümer verpflichtet werden, die Grabung zuzulassen, wenn das Landesamt für Denkmalpflege festgestellt hat, daß ein besonderes öffentliches Interesse an der Grabung besteht. <satz.nr id="xx">2</satz.nr>Der Inhaber der Grabungsgenehmigung hat den dem Eigentümer entstehenden Schaden zu ersetzen.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(6)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Auf in der Denkmalliste nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">2</v.norm> Abs. 1</verweis.norm> verzeichneten Bodendenkmälern ist der Einsatz technischer Ortungsgeräte, die geeignet sind, Denkmäler im Erdreich aufzufinden, verboten. <satz.nr id="xx">2</satz.nr>Eine Erlaubnis kann nur für berechtigte berufliche Zwecke erteilt werden. <satz.nr id="xx">3</satz.nr>Abs. 1 Satz 3 und Abs. 3 gelten entsprechend.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_8"><para.nr>Art. 8</para.nr><para.titel>
+          Auffinden von Bodendenkmälern
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Wer Bodendenkmäler auffindet, ist verpflichtet, dies unverzüglich der Unteren Denkmalschutzbehörde oder dem Landesamt für Denkmalpflege anzuzeigen. <satz.nr id="xx">2</satz.nr>Zur Anzeige verpflichtet sind auch der Eigentümer und der Besitzer des Grundstücks sowie der Unternehmer und der Leiter der Arbeiten, die zu dem Fund geführt haben. <satz.nr id="xx">3</satz.nr>Die Anzeige eines der Verpflichteten befreit die übrigen. <satz.nr id="xx">4</satz.nr>Nimmt der Finder an den Arbeiten, die zu dem Fund geführt haben, auf Grund eines Arbeitsverhältnisses teil, so wird er durch Anzeige an den Unternehmer oder den Leiter der Arbeiten befreit.</p>
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Die aufgefundenen Gegenstände und der Fundort sind bis zum Ablauf von einer Woche nach der Anzeige unverändert zu belassen, wenn nicht die Untere Denkmalschutzbehörde die Gegenstände vorher freigibt oder die Fortsetzung der Arbeiten gestattet.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>Die Abs. 1 und 2 gelten nicht bei Arbeiten, die vom Landesamt für Denkmalpflege oder unter seiner Mitwirkung vorgenommen oder veranlaßt werden.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>Eigentümer, dinglich Verfügungsberechtigte und unmittelbare Besitzer eines Grundstücks, auf dem Bodendenkmäler gefunden werden, können verpflichtet werden, die notwendigen Maßnahmen zur sachgemäßen Bergung des Fundgegenstands sowie zur Klärung der Fundumstände und zur Sicherung weiterer auf dem Grundstück vorhandener Bodendenkmäler zu dulden.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_9"><para.nr>Art. 9</para.nr><para.titel>
+          Schatzregal
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Bewegliche Bodendenkmäler oder Teile davon, die herrenlos oder so lange verborgen gewesen sind, dass ihr Eigentümer nicht mehr zu ermitteln ist, werden unabhängig von einer Eintragung nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">2</v.norm> Abs. 1</verweis.norm> mit der Entdeckung Eigentum des Freistaates Bayern. <satz.nr id="xx">2</satz.nr>Sie sind unverzüglich dem Landesamt für Denkmalpflege zu übergeben.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Eigentümer des Grundstücks, auf dem das Bodendenkmal entdeckt wurde, hat gegen den Freistaat Bayern einen Anspruch auf Ausgleich. <satz.nr id="xx">2</satz.nr>Für Funde auf der Grundstücksgrenze gilt <verweis.norm>§ <v.norm ersatz="BGB">432</v.norm> des <v.abk ersatz="BGB">Bürgerlichen Gesetzbuches (BGB)</v.abk></verweis.norm>. <satz.nr id="xx">3</satz.nr>Die Sätze 1 und 2 gelten nicht für Objekte, deren</p>
+          
+            
+          
+            
+            <ul>
+              <li>
+                <symbol id="x">1.</symbol>
+                <p>Verkehrswert weniger als 1000 € beträgt oder</p>
+              </li>
+              <li>
+                <symbol id="x">2.</symbol>
+                <p>deren Fund oder Bergung unter Verstoß gegen gesetzliche Bestimmungen erfolgte.</p>
+              </li>
+            </ul>
+          
+            <p> <satz.nr id="xx">4</satz.nr>Die Höhe des Ausgleichs bemisst sich nach dem Verkehrswert des restaurierten Objekts abzüglich des Aufwands für eine fachgerechte Restaurierung und Konservierung. <satz.nr id="xx">5</satz.nr>Die Belohnung nach Abs. 3 ist zum Abzug zu bringen.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Entdecker, der nicht zugleich Grundstückseigentümer ist, hat gegen den Freistaat Bayern einen Anspruch auf Belohnung nach <verweis.norm>§ <v.norm ersatz="BGB">971</v.norm> <v.abk ersatz="BGB">BGB</v.abk></verweis.norm>. <satz.nr id="xx">2</satz.nr>Abs. 2 Satz 3 gilt entsprechend. <satz.nr id="xx">3</satz.nr>Für die Wertberechnung im Rahmen des <verweis.norm>§ <v.norm ersatz="BGB">971</v.norm> Abs. 1 Satz 2 <v.abk ersatz="BGB">BGB</v.abk></verweis.norm> gilt Abs. 2 Satz 4.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Anspruch auf Ausgleich oder Belohnung entsteht 24 Monate nach der Übergabe an das Landesamt für Denkmalpflege. <satz.nr id="xx">2</satz.nr>Er entfällt, wenn das Objekt an die nach <verweis.norm>§ <v.norm ersatz="BGB">984</v.norm> <v.abk ersatz="BGB">BGB</v.abk></verweis.norm> Berechtigten zurückgegeben und diesen je zur Hälfte das Eigentum an dem Objekt übertragen wird.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Das Eigentum soll vom Freistaat Bayern auf Antrag der Gemeinde des Fundorts übertragen werden, wenn die fachgerechte Archivierung und Lagerung der gesamten Funde einer Grabung durch eine fachlich besetzte Einrichtung gewährleistet wird. <satz.nr id="xx">2</satz.nr>In diesem Fall bestehen keine Ansprüche der Gemeinde nach den Abs. 2 und 3.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(6)</absatz.nr><absatz.text>
+            <p>Für Entdeckungen vor dem 1. Juli 2023 sind die Vorschriften des <verweis.norm><v.abk ersatz="***">Bayerischen Denkmalschutzgesetzes</v.abk></verweis.norm> in der am 30. Juni 2023 geltenden Fassung anzuwenden.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_4" version="p">
+      <gliederung.titel><p>
+        Teil 4 
+        Eingetragene bewegliche Denkmäler
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_10"><para.nr>Art. 10</para.nr><para.titel>
+          Erlaubnispflicht
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Wer ein eingetragenes bewegliches Denkmal beseitigen, verändern oder an einen anderen Ort verbringen will, bedarf der Erlaubnis. <satz.nr id="xx">2</satz.nr>Die Erlaubnis kann versagt werden, soweit dies zum Schutz des Denkmals erforderlich ist.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Veräußerung eines eingetragenen beweglichen Denkmals ist dem Landesamt für Denkmalpflege unverzüglich anzuzeigen. <satz.nr id="xx">2</satz.nr>Zur Anzeige sind der Veräußerer und der Erwerber verpflichtet.</p>
+          
+            
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_5" version="p">
+      <gliederung.titel><p>
+        Teil 5 
+        Verfahrensbestimmungen
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_11"><para.nr>Art. 11</para.nr><para.titel>
+          Denkmalschutzbehörden
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Untere Denkmalschutzbehörden sind die Kreisverwaltungsbehörden. <satz.nr id="xx">2</satz.nr>Soweit kreisangehörigen Gemeinden die Aufgaben der Unteren Bauaufsichtsbehörden übertragen sind oder übertragen werden, gilt diese Übertragung auch für die Aufgaben der Unteren Denkmalschutzbehörden. <satz.nr id="xx">3</satz.nr><verweis.norm>Art. <v.norm ersatz="BayGO">115</v.norm> Abs. 2 der <v.abk ersatz="BayGO">Gemeindeordnung</v.abk></verweis.norm> gilt entsprechend.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Höhere Denkmalschutzbehörden sind die Regierungen.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>Oberste Denkmalschutzbehörde ist das Staatsministerium für Wissenschaft und Kunst (Staatsministerium).</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Soweit nichts anderes bestimmt ist, sind die Unteren Denkmalschutzbehörden für den Vollzug dieses Gesetzes zuständig. <satz.nr id="xx">2</satz.nr>Bei Bauvorhaben, die die Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> erfüllen und bei verfahrensfreien Bauvorhaben, die im Übrigen die Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> erfüllen, treten die Höheren an die Stelle der Unteren Denkmalschutzbehörden. <satz.nr id="xx">3</satz.nr>Satz 2 gilt auch für Entscheidungen nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">7</v.norm></verweis.norm>.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text>
+            <p>Die Aufgaben der Denkmalschutzbehörden sind Staatsaufgaben; für die Gemeinden sind sie übertragene Aufgaben.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_12"><para.nr>Art. 12</para.nr><para.titel>
+          Landesamt für Denkmalpflege
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Das Landesamt für Denkmalpflege ist die staatliche Fachbehörde für alle Fragen des Denkmalschutzes und der Denkmalpflege. <satz.nr id="xx">2</satz.nr>Es ist dem Staatsministerium unmittelbar nachgeordnet.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Dem Landesamt für Denkmalpflege obliegen die Denkmalpflege und die Mitwirkung beim Denkmalschutz. <satz.nr id="xx">2</satz.nr>Die Denkmalpflege umfasst auch die Erforschung der Denkmäler, soweit solche Vorhaben mit den sonstigen Aufgaben des Landesamts für Denkmalpflege in unmittelbarem Zusammenhang stehen und mit diesen vereinbar sind. <satz.nr id="xx">3</satz.nr>Insbesondere hat es folgende Aufgaben:</p>
+          
+            
+          
+            
+            <ul>
+              <li>
+                <symbol id="x">1.</symbol>
+                <p>Mitwirkung beim Vollzug dieses Gesetzes und anderer einschlägiger Vorschriften nach Maßgabe der hierzu ergangenen und ergehenden Bestimmungen;</p>
+              </li>
+              <li>
+                <symbol id="x">2.</symbol>
+                <p>Herausgabe von Richtlinien zur Pflege der Denkmäler unter Beteiligung der kommunalen Spitzenverbände;</p>
+              </li>
+              <li>
+                <symbol id="x">3.</symbol>
+                <p>Erstellung und Fortführung der Inventare und der Denkmalliste;</p>
+              </li>
+              <li>
+                <symbol id="x">4.</symbol>
+                <p>Konservierung und Restaurierung von Denkmälern, soweit die Konservierung und die Restaurierung nicht von anderen dafür zuständigen staatlichen Stellen durchgeführt werden;</p>
+              </li>
+              <li>
+                <symbol id="x">5.</symbol>
+                <p>fachliche Beratung und Erstattung von Gutachten in allen Angelegenheiten des Denkmalschutzes und der Denkmalpflege;</p>
+              </li>
+              <li>
+                <symbol id="x">6.</symbol>
+                <p>Überwachung der Ausgrabungen sowie die Überwachung und Erfassung der anfallenden beweglichen Bodendenkmäler;</p>
+              </li>
+              <li>
+                <symbol id="x">7.</symbol>
+                <p>Fürsorge für Heimatmuseen und ähnliche Sammlungen, soweit diese nicht vom Staat verwaltet werden.</p>
+              </li>
+            </ul>
+          
+            <p> <satz.nr id="xx">4</satz.nr>Das Staatsministerium kann dem Landesamt für Denkmalpflege weitere einschlägige Aufgaben zuweisen.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>Die bisherigen Aufgaben der Bayerischen Verwaltung der staatlichen Schlösser, Gärten und Seen bleiben unberührt.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_13"><para.nr>Art. 13</para.nr><para.titel>
+          Heimatpfleger
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Heimatpfleger beraten und unterstützen die Denkmalschutzbehörden und das Landesamt für Denkmalpflege in den Fragen der Denkmalpflege und des Denkmalschutzes. <satz.nr id="xx">2</satz.nr>Ihnen ist durch die Denkmalschutzbehörden in den ihren Aufgabenbereich betreffenden Fällen rechtzeitig Gelegenheit zur Äußerung zu geben.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Die Denkmalschutzbehörden und das Landesamt für Denkmalpflege sollen sich in geeigneten Fällen der Unterstützung kommunaler Stellen sowie privater Initiativen bedienen.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_14"><para.nr>Art. 14</para.nr><para.titel>
+          Landesdenkmalrat
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Landesdenkmalrat berät die Staatsregierung in allen wichtigen Fragen der Denkmalpflege. <satz.nr id="xx">2</satz.nr>Er wirkt an der Festlegung von Ensembles mit.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>In den Landesdenkmalrat werden folgende Mitglieder jeweils für die Dauer der Legislaturperiode entsandt:</p>
+            <ul>
+              <li>
+                <symbol id="x">1.</symbol>
+                <p>sechs von den Fraktionen des Bayerischen Landtags gemäß ihren Besetzungsrechten nach dem Verfahren Sainte-Laguë/Schepers,</p>
+              </li>
+              <li>
+                <symbol id="x">2.</symbol>
+                <p>je zwei von der Katholischen Kirche und der Evangelisch-Lutherischen Landeskirche,</p>
+              </li>
+              <li>
+                <symbol id="x">3.</symbol>
+                <p>je eines</p>
+                <ul>
+                  <li>
+                    <symbol id="x">a)</symbol>
+                    <p>von den israelitischen Kultusgemeinden in Bayern,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">b)</symbol>
+                    <p>vom Verein zur Erhaltung privater Baudenkmäler und sonstiger Kulturgüter in Bayern e.V.,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">c)</symbol>
+                    <p>von der Deutschen Burgenvereinigung, Landesgruppe Bayern,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">d)</symbol>
+                    <p>vom Landesverband der Bayerischen Haus- und Grundbesitzer e.V.,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">e)</symbol>
+                    <p>vom Familienbetriebe Land und Forst Bayern e.V.,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">f)</symbol>
+                    <p>von der Bayerischen Akademie der Schönen Künste,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">g)</symbol>
+                    <p>von der Bayerischen Architektenkammer,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">h)</symbol>
+                    <p>von der Deutschen Akademie für Städtebau und Landesplanung, Landesgruppe Bayern,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">i)</symbol>
+                    <p>vom Bayerischen Landesverein für Heimatpflege,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">j)</symbol>
+                    <p>vom Bayerischen Bauernverband,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">k)</symbol>
+                    <p>von der Arbeitsgemeinschaft der Bayerischen Handwerkskammern,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">l)</symbol>
+                    <p>vom Bayerischen Gemeindetag,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">m)</symbol>
+                    <p>vom Bayerischen Städtetag,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">n)</symbol>
+                    <p>vom Bayerischen Landkreistag,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">o)</symbol>
+                    <p>vom Bayerischen Bezirketag,</p>
+                  </li>
+                  <li>
+                    <symbol id="x">p)</symbol>
+                    <p>von der Bayerischen Ingenieurekammer-Bau,</p>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <symbol id="x">4.</symbol>
+                <p>bis zu sechs vom Staatsministerium.</p>
+              </li>
+            </ul>
+          
+            <p> <satz.nr id="xx">2</satz.nr>Es wird entsprechend Satz 1 jeweils ein Stellvertreter bestimmt. <satz.nr id="xx">3</satz.nr>Die Mitglieder und ihre Stellvertreter werden vom Landtag bestellt, in den Fällen des Satzes 1 Nr. 2 bis 4 auf Vorschlag der jeweiligen entsendenden Stelle.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die Mitglieder sind ehrenamtlich tätig. <satz.nr id="xx">2</satz.nr>Sie erhalten Reisekosten nach den Vorschriften des Bayerischen Reisekostengesetzes wie ein Ehrenbeamter.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Landesdenkmalrat wählt aus seiner Mitte mit einfacher Mehrheit der anwesenden Mitglieder ein vorsitzendes Mitglied und einen Stellvertreter. <satz.nr id="xx">2</satz.nr>Der Landesdenkmalrat gibt sich im Übrigen eine Geschäftsordnung. <satz.nr id="xx">3</satz.nr>Das Staatsministerium führt seine Geschäfte.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text>
+            <p>Ohne Stimmrecht nehmen an den Beratungen des Landesdenkmalrats bei Bedarf Sachverständige nach Einladung des Landesdenkmalrats teil.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_15"><para.nr>Art. 15</para.nr><para.titel>
+          Erlaubnisverfahren und Wiederherstellung
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Antrag auf Erteilung einer Erlaubnis nach den <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm>, <v.norm ersatz="BayDSchG">7</v.norm> und <v.norm ersatz="BayDSchG">10</v.norm> Abs. 1</verweis.norm> und auf Verpflichtung des Eigentümers nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 5</verweis.norm> ist schriftlich bei der zuständigen Denkmalschutzbehörde einzureichen, die ihn unverzüglich der Gemeinde zur Stellungnahme übermittelt. <satz.nr id="xx">2</satz.nr><verweis.norm>Art. <v.norm ersatz="BayBO">75</v.norm> und <v.norm ersatz="BayBO">76</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> gelten in den Fällen der <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm>, <v.norm ersatz="BayDSchG">7</v.norm> und <v.norm ersatz="BayDSchG">8</v.norm> Abs. 2</verweis.norm> entsprechend.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Die zuständige Denkmalschutzbehörde soll vor einer Entscheidung nach den Teilen 2 bis 4 das Landesamt für Denkmalpflege hören. <satz.nr id="xx">2</satz.nr><verweis.norm>Art. <v.norm ersatz="BayBO">65</v.norm> Abs. 1 Satz 3 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> gilt entsprechend.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>Für eine Erlaubnis nach den Teilen 2 bis 4 gilt <verweis.norm>Art. <v.norm ersatz="BayBO">69</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> entsprechend.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>Werden Handlungen nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm>, <v.norm ersatz="BayDSchG">7</v.norm>, <v.norm ersatz="BayDSchG">8</v.norm> Abs. 2 oder Art. <v.norm ersatz="BayDSchG">10</v.norm> Abs. 1</verweis.norm> ohne die erforderliche Erlaubnis, Baugenehmigung oder abgrabungsaufsichtliche Genehmigung durchgeführt, so kann die Untere Denkmalschutzbehörde verlangen, daß der ursprüngliche Zustand wieder hergestellt wird, soweit dies noch möglich ist, oder daß Bau- und Bodendenkmäler und eingetragene bewegliche Denkmäler auf andere Weise wieder instandgesetzt werden.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text>
+            <p>Wer widerrechtlich Bau- oder Bodendenkmäler oder eingetragene bewegliche Denkmäler vorsätzlich oder grob fahrlässig zerstört oder beschädigt, ist unabhängig von der Verhängung einer Geldbuße zur Wiedergutmachung des von ihm angerichteten Schadens bis zu dessen vollem Umfang verpflichtet.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(6)</absatz.nr><absatz.text>
+            <p>Die zuständige Behörde kann die Entscheidung über einen Antrag auf Erlaubnis, Baugenehmigung, baurechtliche Zustimmung oder abgrabungsaufsichtliche Genehmigung auf höchstens zwei Jahre aussetzen, soweit dies zur Klärung der Belange des Denkmalschutzes, insbesondere für Untersuchungen des Baudenkmals und seiner Umgebung, erforderlich ist.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(7)</absatz.nr><absatz.text>
+            <p>
+              <verweis.norm>Art. <v.norm ersatz="EU_VO_2022_2577">4</v.norm> Abs. 1 Satz 1 der <v.abk ersatz="EU_VO_2022_2577">Verordnung (EU) 2022/2577</v.abk></verweis.norm> findet aus Gründen des Schutzes kulturellen Erbes keine Anwendung.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_16"><para.nr>Art. 16</para.nr><para.titel>
+          Betretungs- und Auskunftsrecht
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>Die Denkmalschutzbehörden und das Landesamt für Denkmalpflege sind berechtigt, im Vollzug dieses Gesetzes Grundstücke auch gegen den Willen der Betroffenen zu betreten, soweit das zur Erhaltung eines Bau- oder Bodendenkmals oder eines eingetragenen beweglichen Denkmals dringend erforderlich erscheint.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Eigentümer und Besitzer von Bau- und Bodendenkmälern und von eingetragenen beweglichen Denkmälern und sonstige Berechtigte sind verpflichtet, den Denkmalschutzbehörden und dem Landesamt für Denkmalpflege alle zum Vollzug dieses Gesetzes erforderlichen Auskünfte zu erteilen.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_17"><para.nr>Art. 17</para.nr><para.titel>
+          Kostenfreiheit
+        </para.titel><jurAbsatz><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Für Amtshandlungen nach diesem Gesetz werden Kosten nicht erhoben. <satz.nr id="xx">2</satz.nr>Schließt die Erlaubnis gemäß <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 3 Satz 3</verweis.norm> die Zustimmung im Einzelfall nach <verweis.norm>Art. <v.norm ersatz="BayBO">20</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> oder die Abweichung nach <verweis.norm>Art. <v.norm ersatz="BayBO">63</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> ein, werden für die Zustimmung oder die Abweichung Kosten nach dem Kostengesetz erhoben.</p>
+          
+            
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_6" version="p">
+      <gliederung.titel><p>
+        Teil 6 
+        Enteignung
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_18"><para.nr>Art. 18</para.nr><para.titel>
+          Zulässigkeit der Enteignung
+        </para.titel><jurAbsatz><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Kann eine Gefahr für den Bestand oder die Gestalt eines Bau- oder Bodendenkmals oder eines eingetragenen beweglichen Denkmals auf andere Weise nicht nachhaltig abgewehrt werden, so ist die Enteignung zugunsten des Staates oder einer anderen juristischen Person des öffentlichen Rechts zulässig. <satz.nr id="xx">2</satz.nr>Zugunsten einer juristischen Person des Privatrechts ist die Enteignung dann zulässig, wenn die dauernde Erhaltung des Bau- oder Bodendenkmals oder des eingetragenen beweglichen Denkmals zu den satzungsmäßigen Aufgaben der juristischen Person gehört und bei Berücksichtigung aller Umstände gesichert erscheint.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>
+            <span class="i">(3) bis (5)</span>
+          </absatz.nr><absatz.text>
+            <p>
+              <span class="i"> (aufgehoben)</span>
+            </p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_19"><para.nr>Art. 19</para.nr><para.titel>
+          
+            Entschädigungsfonds
+          
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Für Entschädigungen bei Enteignung nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">18</v.norm></verweis.norm>, Ausgleich unzumutbarer Kostenbelastungen nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">4</v.norm> Abs. 3</verweis.norm> sowie bei Instandsetzungsmaßnahmen nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">4</v.norm> Abs. 1</verweis.norm> wird ein Entschädigungsfonds vorgehalten, der von der Obersten Denkmalschutzbehörde als staatliches Sondervermögen unterhalten wird. <satz.nr id="xx">2</satz.nr>Steuervorteile, die auf die Denkmaleigenschaft zurückzuführen sind, sind bei Zahlungen an den Betroffenen in angemessenem Umfang anzurechnen.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Freistaat Bayern und die Gemeinden haben die Entschädigung grundsätzlich gemeinsam zu tragen. <satz.nr id="xx">2</satz.nr>Die Ansprüche des Berechtigten sind gegen den Freistaat Bayern zu richten. <satz.nr id="xx">3</satz.nr>Der Entschädigungsfonds erstattet dem Freistaat Bayern auf Antrag der örtlich zuständigen Regierung die dem Betroffenen gewährten Entschädigungsleistungen.</p>
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Freistaat Bayern und die Gemeinden tragen den Fonds durch Beiträge von je 16 Millionen Euro jährlich. <satz.nr id="xx">2</satz.nr>Die staatlichen Beiträge sind in zwei gleichen Teilbeträgen im Januar und im Juli zahlbar. <satz.nr id="xx">3</satz.nr>Die von den Gemeinden zu tragenden Einzelbeiträge errechnen sich nach dem Verhältnis der jeweiligen gemeindlichen Umlagegrundlagen für die Kreisumlage oder die Bezirksumlage. <satz.nr id="xx">4</satz.nr>Sie werden jährlich vom Landesamt für Statistik berechnet und sollen entsprechend bis 31. März des jeweiligen Beitragsjahres gegenüber den Gemeinden durch Beitragsbescheid festgesetzt werden. <satz.nr id="xx">5</satz.nr>Die Beiträge werden mit der Auszahlung der Schlüsselzuweisungen für das dritte Vierteljahr fällig, staatlicherseits einbehalten und an den Fonds abgeführt. <satz.nr id="xx">6</satz.nr>Soweit Gemeinden keine Schlüsselzuweisungen erhalten, zahlen sie die Beiträge bis zum 15. September an die Staatsoberkasse.</p>
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text>
+            <p>Erfolgt eine Enteignung zugunsten einer juristischen Person des öffentlichen Rechts, die nicht Gebietskörperschaft ist, oder zugunsten einer juristischen Person des Privatrechts, so hat diese die Entschädigung zu tragen.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_7" version="p">
+      <gliederung.titel><p>
+        Teil 7 
+        Finanzierung
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_20"><para.nr>Art. 20</para.nr><para.titel>
+          Leistungen
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Der Freistaat Bayern beteiligt sich unbeschadet bestehender Verpflichtungen in Höhe der jeweils im Staatshaushalt ausgewiesenen Mittel an den Kosten des Denkmalschutzes und der Denkmalpflege, insbesondere an den Kosten der Instandsetzung, Erhaltung, Sicherung und Freilegung von Denkmälern. <satz.nr id="xx">2</satz.nr>Die Höhe der Beteiligung richtet sich nach der Bedeutung und der Dringlichkeit des Falls und nach der Leistungsfähigkeit des Eigentümers.</p>
+          
+            
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Die kommunalen Gebietskörperschaften beteiligen sich im Rahmen ihrer Leistungsfähigkeit in angemessenem Umfang an den Kosten der in Abs. 1 genannten Maßnahmen.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_8" version="p">
+      <gliederung.titel><p>
+        Teil 8 
+        Ordnungswidrigkeiten
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_21"><para.nr>Art. 21</para.nr><para.titel>
+          Ordnungswidrigkeiten
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>Mit Geldbuße bis zu fünf Millionen Euro kann belegt werden, wer vorsätzlich oder fahrlässig</p>
+            <ul>
+              <li>
+                <symbol id="x">1.</symbol>
+                <p>Handlungen nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">4</v.norm> Abs. 4</verweis.norm> vornimmt, obwohl ihm dies durch vollziehbare Anordnung untersagt wurde,</p>
+              </li>
+              <li>
+                <symbol id="x">2.</symbol>
+                <p>ohne die nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 1, Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 4 Satz 1 oder Art. <v.norm ersatz="BayDSchG">10</v.norm> Abs. 1</verweis.norm> erforderliche Erlaubnis oder die an ihre Stelle tretende baurechtliche oder abgrabungsaufsichtliche Genehmigung Maßnahmen an einem Denkmal durchführt,</p>
+              </li>
+              <li>
+                <symbol id="x">3.</symbol>
+                <p>ohne die nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 1</verweis.norm> erforderliche Erlaubnis nach Bodendenkmälern gräbt oder zu einem anderen Zweck Erdarbeiten auf einem Grundstück vornimmt oder wer ohne die nach <verweis.norm>Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 2</verweis.norm> erforderliche Erlaubnis Arbeiten in einem Grabungsschutzgebiet durchführt, die Bodendenkmäler gefährden können,</p>
+              </li>
+              <li>
+                <symbol id="x">4.</symbol>
+                <p>die gemäß <verweis.norm>Art. <v.norm ersatz="BayDSchG">8</v.norm> Abs. 1 oder Art. <v.norm ersatz="BayDSchG">10</v.norm> Abs. 2</verweis.norm> erforderliche Anzeige nicht unverzüglich erstattet,</p>
+              </li>
+              <li>
+                <symbol id="x">5.</symbol>
+                <p>die aufgefundenen Gegenstände und den Fundort nicht gemäß <verweis.norm>Art. <v.norm ersatz="BayDSchG">8</v.norm> Abs. 2</verweis.norm> unverändert läßt,</p>
+              </li>
+              <li>
+                <symbol id="x">6.</symbol>
+                <p>seiner Übergabepflicht gemäß <verweis.norm>Art. <v.norm ersatz="BayDSchG">8</v.norm> Abs. 5</verweis.norm> nicht unverzüglich nachkommt,</p>
+              </li>
+              <li>
+                <symbol id="x">7.</symbol>
+                <p>entgegen <verweis.norm>Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 6</verweis.norm> ohne Erlaubnis technische Ortungsgeräte einsetzt.</p>
+              </li>
+            </ul>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>Die Verfolgung der Ordnungswidrigkeiten verjährt in fünf Jahren.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+    <gliederung gliederungsid="G_9" version="p">
+      <gliederung.titel><p>
+        Teil 9 
+        Allgemeine Bestimmungen und Schlussbestimmungen
+      </p></gliederung.titel>
+      <einzelnorm version="p" einzelnormid="P_22"><para.nr>Art. 22</para.nr><para.titel>
+          Grundrechtseinschränkung
+        </para.titel><jurAbsatz><absatz.text>
+            <p>Die Grundrechte der Unverletzlichkeit der Wohnung (<verweis.norm>Art. <v.norm ersatz="GG">13</v.norm> des <v.abk ersatz="GG">Grundgesetzes</v.abk></verweis.norm>, <verweis.norm>Art. <v.norm ersatz="BayVerf">106</v.norm> Abs. 3 der <v.abk ersatz="BayVerf">Verfassung</v.abk></verweis.norm>), der freien Entfaltung der Persönlichkeit (<verweis.norm>Art. <v.norm ersatz="GG">2</v.norm> Abs. 1 des <v.abk ersatz="GG">Grundgesetzes</v.abk></verweis.norm>, <verweis.norm>Art. <v.norm ersatz="BayVerf">101</v.norm> der <v.abk ersatz="BayVerf">Verfassung</v.abk></verweis.norm>) und des Eigentums (<verweis.norm>Art. <v.norm ersatz="GG">14</v.norm> des <v.abk ersatz="GG">Grundgesetzes</v.abk></verweis.norm>, <verweis.norm>Art. <v.norm ersatz="BayVerf">103</v.norm> der <v.abk ersatz="BayVerf">Verfassung</v.abk></verweis.norm>) werden durch dieses Gesetz eingeschränkt.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_23"><para.nr>Art. 23</para.nr><para.titel>
+          Erteilung von Bescheinigungen für steuerliche Zwecke
+        </para.titel><jurAbsatz><absatz.text>
+            <p>Bescheinigungen für die Erlangung von Steuervergünstigungen werden vorbehaltlich anderweitiger Bestimmungen vom Landesamt für Denkmalpflege erteilt.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_24"><para.nr>Art. 24</para.nr><para.titel>
+          Kirchliche Denkmäler
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>Art. 10 §§ 3 und 4 des Konkordats mit dem Heiligen Stuhl vom 29. März 1924 und <verweis.norm>Art. <v.norm ersatz="ELKBStaatsVertr">18</v.norm> und <v.norm ersatz="ELKBStaatsVertr">19</v.norm> des <v.abk ersatz="ELKBStaatsVertr">Vertrags zwischen dem Freistaat Bayern und der Evangelisch-Lutherischen Kirche in Bayern rechts des Rheins</v.abk></verweis.norm> vom 15. November 1924 bleiben unberührt.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <satz.nr id="xx">1</satz.nr>Sollen Entscheidungen über Bau- oder Bodendenkmäler oder über eingetragene bewegliche Denkmäler getroffen werden, die unmittelbar gottesdienstlichen Zwecken der Katholischen Kirche oder der Evangelisch-Lutherischen Kirche dienen, so haben die Denkmalschutzbehörden die von den zuständigen kirchlichen Oberbehörden festgestellten kirchlichen Belange zu berücksichtigen. <satz.nr id="xx">2</satz.nr>Die Kirchen sind am Verfahren zu beteiligen. <satz.nr id="xx">3</satz.nr>Die zuständige kirchliche Oberbehörde entscheidet im Benehmen mit der Obersten Denkmalschutzbehörde, falls die Untere und Höhere Denkmalschutzbehörde die geltend gemachten kirchlichen Belange nicht anerkennen. <satz.nr id="xx">4</satz.nr>Gegenüber anderen Religionsgemeinschaften, die Körperschaften des öffentlichen Rechts sind, gelten die Sätze 1 bis 3 sinngemäß.</p>
+          
+            
+          
+            
+          
+            
+          </absatz.text></jurAbsatz></einzelnorm>
+      <einzelnorm version="p" einzelnormid="P_25"><para.nr>Art. 25</para.nr><para.titel>
+          Inkrafttreten, Außerkrafttreten
+        </para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text>
+            <p>Dieses Gesetz tritt am 1. Oktober 1973 in Kraft<fn.call><fn.text>1)</fn.text><fn.def><p>Betrifft die ursprüngliche Fassung vom 25. Juni 1973 (GVBl S. 328).</p></fn.def></fn.call>.</p>
+          </absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text>
+            <p>
+              <verweis.norm>Art. <v.norm ersatz="BayDSchG">6</v.norm> Abs. 5 sowie Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 4 Satz 3 Nr. 1 und Satz 4</verweis.norm> treten mit Ablauf des 31. Dezember 2035 außer Kraft.</p>
+          </absatz.text></jurAbsatz></einzelnorm>
+    </gliederung>
+  </rumpf>
+</byrecht-norm>

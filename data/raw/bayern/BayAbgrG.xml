@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE byrecht-norm PUBLIC "-//Verlag C.H.Beck/DTD Vorschriften//DE" "http://gesetze-bayern.de/schema/byrecht.normen.dtd">
+<byrecht-norm builddate="11.03.2024_01:00">
+  <kopf>
+    <angaben.versunabh>
+      <dokumentation doktyp="gesetz" dokid="BayAbgrG" ersatz="BayAbgrG" />
+      <ausfertigung>
+        <ausfertigungsdatum>1999-12-27</ausfertigungsdatum>
+        <fundstelle.GVBl>
+          <jahr />
+          <seite />
+        </fundstelle.GVBl>
+      </ausfertigung>
+    </angaben.versunabh>
+    <angaben.versabh version.id="p">
+      <inkraft>2021-02-01</inkraft>
+      
+      <fassung>
+        <fassungsdatum>1999-12-27</fassungsdatum>
+        <fundstelle.GVBl>
+          <jahr>1999</jahr>
+          <seite>S=532</seite>
+        </fundstelle.GVBl>
+      </fassung>
+      <gliederungsNr.BayRS>BayRS 2132-2-B
+</gliederungsNr.BayRS>
+      <kurzbezeichnung></kurzbezeichnung>
+      <titelangaben>Bayerisches Abgrabungsgesetz<br /> (<amtlicheAbk>BayAbgrG</amtlicheAbk>)<br />Vom 27. Dezember 1999<br />(GVBl. S. 532, 535)<br />BayRS 2132-2-B
+</titelangaben>
+      <amtlicheAbk>BayAbgrG</amtlicheAbk>
+    </angaben.versabh>
+  </kopf>
+  <rumpf>
+    <aenderungsverlauf>
+      <p>Änderungen</p>
+      <ul>
+        <li>
+          <symbol id="x">1.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="BayAbgrGAendG_2007">§ 1 G zur Änd. des Bayerischen AbgrabungsG und anderer Rechtsvorschriften</v.abk>
+          </verweis.norm>
+         vom 20.12.2007<br />(GVBl. S. 958)</p>
+        </li>
+        <li>
+          <symbol id="x">2.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2013_0174">§ 2 Abs. 8 LandesrechtbereinigungsG</v.abk>
+          </verweis.norm>
+         vom 8.4.2013<br />(GVBl. S. 174)</p>
+        </li>
+        <li>
+          <symbol id="x">3.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2014_0286">§ 1 Nr. 182 V zur Anpassung des LandesR an die geltende Geschäftsverteilung</v.abk>
+          </verweis.norm>
+         vom 22.7.2014<br />(GVBl. S. 286, 405)</p>
+        </li>
+        <li>
+          <symbol id="x">4.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2018_0523">§ 2 G zur Änderung der Bayerischen Bauordnung und weiterer Rechtsvorschriften</v.abk>
+          </verweis.norm>
+         vom 10.7.2018<br />(GVBl. S. 523)</p>
+        </li>
+        <li>
+          <symbol id="x">5.</symbol>
+          <p>
+          <verweis.norm>
+            <v.abk ersatz="Bay_110_2019_0098">§ 1 Abs. 161 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung</v.abk>
+          </verweis.norm>
+         vom 26.3.2019<br />(GVBl. S. 98)</p>
+        </li>
+        <li>
+          <symbol id="x">6.</symbol>
+          <p>
+          <verweis.norm>
+            § <v.norm ersatz="Bay_110_2020_0663">2</v.norm> <v.abk ersatz="Bay_110_2020_0663">G zur Vereinfachung baurechtlicher Regelungen und zur Beschleunigung sowie Förderung des Wohnungsbaus</v.abk></verweis.norm>
+         vom 23.12.2020<br />(GVBl. S. 663)</p>
+        </li>
+      </ul>
+    </aenderungsverlauf>
+    <normzitat>Bayerisches Abgrabungsgesetz (BayAbgrG) vom 27. Dezember 1999 (GVBl. S. 532, 535, BayRS 2132-2-B), das zuletzt durch § 2 des Gesetzes vom 23. Dezember 2020 (GVBl. S. 663) geändert worden ist</normzitat>
+    <einzelnorm version="p" einzelnormid="P_1">
+      
+      <para.nr>Art. 1</para.nr>
+      <para.titel>
+        Anwendungsbereich
+      </para.titel>
+      <jurAbsatz>
+        
+        <absatz.text>
+          <p>Dieses Gesetz gilt für Abgrabungen zur Gewinnung von nicht dem Bergrecht unterliegenden Bodenschätzen und sonstige Abgrabungen einschließlich der Aufschüttungen, die unmittelbare Folge von Abgrabungen sind, sowie der dem Abgrabungsbetrieb dienenden Gebäude und Nebenanlagen.</p>
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_2">
+      
+      <para.nr>Art. 2</para.nr>
+      <para.titel>
+        Allgemeine Anforderungen
+      </para.titel>
+      <jurAbsatz>
+        
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Abgrabungen sind so auszuführen, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben oder Gesundheit, und die natürlichen Lebensgrundlagen nicht gefährdet werden. <satz.nr id="xx">2</satz.nr>Im Vollzug dieses Gesetzes ist ein bestmöglicher Ausgleich zwischen dem öffentlichen Interesse an der Gewinnung heimischer Bodenschätze zur Sicherung der Rohstoffversorgung und den Belangen des Naturschutzes und der Landschaftspflege anzustreben.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_3">
+      
+      <para.nr>Art. 3</para.nr>
+      <para.titel>
+        Abgrabungsbehörden
+      </para.titel>
+      <jurAbsatz>
+        
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Untere Abgrabungsbehörden sind die Kreisverwaltungsbehörden. <satz.nr id="xx">2</satz.nr>Höhere Abgrabungsbehörden sind die Regierungen. <satz.nr id="xx">3</satz.nr>Oberste Abgrabungsbehörde ist das Staatsministerium für Wohnen, Bau und Verkehr.</p>
+        
+          
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_4">
+      
+      <para.nr>Art. 4</para.nr>
+      <para.titel>
+        Aufgaben und Befugnisse der Abgrabungsbehörden
+      </para.titel>
+      <jurAbsatz>
+        <absatz.nr>(1)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Die Aufgaben der Abgrabungsbehörden sind Staatsaufgaben. <satz.nr id="xx">2</satz.nr>Für die Gemeinden sind sie übertragene Aufgaben.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(2)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Die Abgrabungsbehörden wachen darüber, dass die öffentlich-rechtlichen Vorschriften, die für die Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm> gelten, sowie die auf Grund dieser Vorschriften erlassenen Anordnungen eingehalten werden. <satz.nr id="xx">2</satz.nr>Sie können in Wahrnehmung dieser Aufgaben die erforderlichen Maßnahmen treffen. <satz.nr id="xx">3</satz.nr>Abgrabungsaufsichtliche Genehmigungen und Maßnahmen gelten auch für und gegen die Rechtsnachfolger; das Gleiche gilt auch für Personen, die ein Besitzrecht nach Erteilung einer abgrabungsaufsichtlichen Genehmigung oder nach Erlass einer abgrabungsaufsichtlichen Maßnahme erlangt haben. <satz.nr id="xx">4</satz.nr>Die mit dem Vollzug dieses Gesetzes Beauftragten sind berechtigt, in Ausübung ihres Amts Grundstücke und Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm> auch gegen den Willen der Betroffenen zu betreten; das Grundrecht der Unverletzlichkeit der Wohnung (<verweis.norm>Art. <v.norm ersatz="GG">13</v.norm> des <v.abk ersatz="GG">Grundgesetzes</v.abk></verweis.norm>, <verweis.norm>Art. <v.norm ersatz="BayVerf">106</v.norm> der <v.abk ersatz="BayVerf">Verfassung</v.abk></verweis.norm>) wird insoweit eingeschränkt.</p>
+        
+          
+        
+          
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_5">
+      
+      <para.nr>Art. 5</para.nr>
+      <para.titel>
+        Sachliche Zuständigkeit
+      </para.titel>
+      <jurAbsatz>
+        
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Sachlich zuständig ist die untere Abgrabungsbehörde, soweit nichts anderes bestimmt ist. <satz.nr id="xx">2</satz.nr>Für Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm> ist unter den Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 1 der <v.abk ersatz="BayBO">Bayerischen Bauordnung (BayBO)</v.abk></verweis.norm> die höhere Abgrabungsbehörde sachlich zuständig.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_6">
+      
+      <para.nr>Art. 6</para.nr>
+      <para.titel>
+        Genehmigungspflicht
+      </para.titel>
+      <jurAbsatz>
+        <absatz.nr>(1)</absatz.nr>
+        <absatz.text>
+          <p>Die Ausführung einer Abgrabung bedarf der Genehmigung, soweit nichts anderes bestimmt ist.</p>
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(2)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Keiner Genehmigung nach Absatz 1 bedürfen</p>
+          <ul>
+            <li>
+              <symbol id="x">1.</symbol>
+              <p>Abgrabungen mit einer Grundfläche bis zu 500 m<sup>2</sup> und einer Tiefe bis zu 2 m,</p>
+            </li>
+            <li>
+              <symbol id="x">2.</symbol>
+              <p>Abgrabungen, die einer anderen öffentlich-rechtlichen Zulassung bedürfen,</p>
+            </li>
+            <li>
+              <symbol id="x">3.</symbol>
+              <p>Abgrabungen im Geltungsbereich eines Bebauungsplans im Sinn des <verweis.norm>§ <v.norm ersatz="BauGB">30</v.norm> des <v.abk ersatz="BauGB">Baugesetzbuchs (BauGB)</v.abk></verweis.norm>, wenn</p>
+              <ul>
+                <li>
+                  <symbol id="x">a)</symbol>
+                  <p>der Bebauungsplan Regelungen über die Zulässigkeit, den Standort und die Größe der Abgrabung enthält,</p>
+                </li>
+                <li>
+                  <symbol id="x">b)</symbol>
+                  <p>für die Abgrabung im Verfahren zur Aufstellung des Bebauungsplans eine nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">8</v.norm></verweis.norm> erforderliche Umweltverträglichkeitsprüfung durchgeführt worden ist,</p>
+                </li>
+                <li>
+                  <symbol id="x">c)</symbol>
+                  <p>die Abgrabung den Festsetzungen des Bebauungsplans und örtlichen Bauvorschriften nach <verweis.norm>Art. <v.norm ersatz="BayBO">81</v.norm> Abs. 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> nicht widerspricht,</p>
+                </li>
+                <li>
+                  <symbol id="x">d)</symbol>
+                  <p>die Erschließung gesichert ist und</p>
+                </li>
+                <li>
+                  <symbol id="x">e)</symbol>
+                  <p>die Gemeinde nicht innerhalb eines Monats nach Vorlage der erforderlichen Unterlagen eine vorläufige Untersagung nach <verweis.norm>§ <v.norm ersatz="BauGB">15</v.norm> Abs. 1 Satz 2 <v.abk ersatz="BauGB">BauGB</v.abk></verweis.norm> beantragt,</p>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <symbol id="x">4.</symbol>
+              <p>Abgrabungen, für die keine Umweltverträglichkeitsprüfung nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">8</v.norm></verweis.norm> durchzuführen ist, unter den Voraussetzungen des <verweis.norm>Art. <v.norm ersatz="BayBO">73</v.norm> Abs. 1 Satz 3 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>,</p>
+            </li>
+            <li>
+              <symbol id="x">5.</symbol>
+              <p>Grabungen im Sinn des <verweis.norm>Art. <v.norm ersatz="BayDSchG">7</v.norm> Abs. 3 des <v.abk ersatz="BayDSchG">Denkmalschutzgesetzes (DSchG)</v.abk></verweis.norm>, für die keine Umweltverträglichkeitsprüfung nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">8</v.norm></verweis.norm> durchzuführen ist,</p>
+            </li>
+            <li>
+              <symbol id="x">6.</symbol>
+              <p>bauliche Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm>, wenn sie nach <verweis.norm>Art. <v.norm ersatz="BayBO">57</v.norm> oder <v.norm ersatz="BayBO">58</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> keiner Genehmigung bedürfen.</p>
+            </li>
+          </ul>
+        
+          <p> <satz.nr id="xx">2</satz.nr>In den Fällen des Satzes 1 Nr. 3 darf mit der Ausführung der Abgrabung auch begonnen werden, wenn die Gemeinde vor Ablauf der Frist nach Satz 1 Nr. 3 Buchst. e erklärt, dass sie eine vorläufige Untersagung der Ausführung der Abgrabung nicht beantragen wird.</p>
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(3)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Die Genehmigungsfreiheit nach Absatz 2 entbindet nicht von der Verpflichtung zur Einhaltung der Anforderungen, die durch öffentlich-rechtliche Vorschriften an die Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm> gestellt werden. <satz.nr id="xx">2</satz.nr>Die abgrabungsaufsichtlichen Eingriffsbefugnisse und die Verpflichtung, andere öffentlich-rechtliche Gestattungen für die Ausführung oder Verfüllung der Abgrabung oder für die Errichtung, Änderung oder Nutzungsänderung baulicher Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm> einzuholen, werden durch die Genehmigungsfreiheit nicht berührt.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_7">
+      
+      <para.nr>Art. 7</para.nr>
+      <para.titel>
+        Genehmigungsverfahren
+      </para.titel>
+      <jurAbsatz>
+        <absatz.nr>(1)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Der Abgrabungsantrag ist mit den erforderlichen Unterlagen (Abgrabungsplan) bei der Gemeinde einzureichen. <satz.nr id="xx">2</satz.nr>Diese legt ihn, sofern sie nicht selbst zuständig ist, mit ihrer Stellungnahme unverzüglich der Abgrabungsbehörde vor.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(2)</absatz.nr>
+        <absatz.text>
+          <p>Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, zum abgrabungsaufsichtlichen Genehmigungsverfahren durch Rechtsverordnung Vorschriften über Umfang und Inhalt des Abgrabungsplans, die Zahl der einzureichenden Fertigungen sowie die erforderlichen Nachweise zu erlassen.</p>
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(3)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Die Staatsregierung wird ermächtigt, zur Digitalisierung des abgrabungsaufsichtlichen Genehmigungsverfahrens durch Rechtsverordnung räumlich bestimmte Abweichungen von den durch oder aufgrund dieses Gesetzes bestehenden Zuständigkeits-, Verfahrens- und Formvorschriften vorzusehen. <satz.nr id="xx">2</satz.nr>Abweichungen nach Satz 1 für Zuständigkeits- und Verfahrensvorschriften können sich auch auf die Einreichung in Papierform erstrecken. <satz.nr id="xx">3</satz.nr>Soweit die Festlegung des örtlichen Anwendungsbereichs einer Rechtsverordnung nach Satz 1 und 2 betroffen ist, kann die Staatsregierung die Ermächtigung nach Satz 1 und 2 durch Rechtsverordnung auf das Staatsministerium für Wohnen, Bau und Verkehr übertragen.</p>
+        
+          
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_8">
+      
+      <para.nr>Art. 8</para.nr>
+      <para.titel>
+        Umweltverträglichkeitsprüfung
+      </para.titel>
+      <jurAbsatz>
+        <absatz.nr>(1)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Für nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">6</v.norm></verweis.norm> genehmigungsbedürftige Abgrabungen ist die Umweltverträglichkeitsprüfung nach dem Fünften Teil Abschnitt III des <verweis.norm><v.abk ersatz="BayVwVfG">Bayerischen Verwaltungsverfahrensgesetzes</v.abk></verweis.norm> durchzuführen, wenn eine Abbaufläche von mehr als 10 ha beantragt wird. <satz.nr id="xx">2</satz.nr>Bei Abgrabungen in einem gemäß der <verweis.norm><v.abk ersatz="EWG_RL_92_43">Richtlinie 92/43/EWG</v.abk></verweis.norm> oder der <verweis.norm><v.abk ersatz="EWG_RL_2009_147">Richtlinie 2009/147/EG</v.abk></verweis.norm> ausgewiesenen Schutzgebiet oder in Nationalparken (<verweis.norm>§ <v.norm ersatz="BNatSchG">24</v.norm> Abs. 1 bis 3 des <v.abk ersatz="BNatSchG">Bundesnaturschutzgesetzes – BNatSchG</v.abk></verweis.norm>) oder Naturschutzgebieten (<verweis.norm>§ <v.norm ersatz="BNatSchG">23</v.norm> <v.abk ersatz="BNatSchG">BNatSchG</v.abk></verweis.norm>) ist die Umweltverträglichkeitsprüfung durchzuführen, wenn eine Abbaufläche von mehr als 1 ha beantragt wird. <satz.nr id="xx">3</satz.nr>Eine Umweltverträglichkeitsprüfung ist auch dann durchzuführen, wenn die Abbaufläche zu mehr als 1 ha in einem Biotop im Sinn des <verweis.norm>§ <v.norm ersatz="BNatSchG">30</v.norm> Abs. 2 <v.abk ersatz="BNatSchG">BNatSchG</v.abk></verweis.norm> in Verbindung mit <verweis.norm>Art. <v.norm ersatz="BayNatSchG98">23</v.norm> Abs. 1 des <v.abk ersatz="BayNatSchG98">Bayerischen Naturschutzgesetzes (BayNatSchG)</v.abk></verweis.norm> liegt.</p>
+        
+          
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(2)</absatz.nr>
+        <absatz.text>
+          <p>Absatz 1 gilt auch für Erweiterungen von Abgrabungen,</p>
+          <ul>
+            <li>
+              <symbol id="x">1.</symbol>
+              <p>für die eine Umweltverträglichkeitsprüfung durchgeführt worden ist, wenn die Erweiterungsfläche mindestens 50 v.H. der Schwellenwerte nach Absatz 1 Satz 1 oder 2 aufweist oder zu mehr als 1 ha in einem Biotop im Sinn des <verweis.norm>§ <v.norm ersatz="BNatSchG">30</v.norm> Abs. 2 <v.abk ersatz="BNatSchG">BNatSchG</v.abk></verweis.norm> in Verbindung mit <verweis.norm>Art. <v.norm ersatz="BayNatSchG98">23</v.norm> Abs. 1 <v.abk ersatz="BayNatSchG98">BayNatSchG</v.abk></verweis.norm> liegt,</p>
+            </li>
+            <li>
+              <symbol id="x">2.</symbol>
+              <p>die nach dem 13. März 1999 ohne Durchführung einer Umweltverträglichkeitsprüfung genehmigt worden sind, wenn die Erweiterungsfläche zusammen mit der bei Abgrabungsbeginn noch nicht rekultivierten oder renaturierten Fläche 10 ha, in den Fällen des Absatzes 1 Satz 2 1 ha überschreitet oder zu mehr als 1 ha in einem Biotop im Sinn des <verweis.norm>§ <v.norm ersatz="BNatSchG">30</v.norm> Abs. 2 <v.abk ersatz="BNatSchG">BNatSchG</v.abk></verweis.norm> in Verbindung mit <verweis.norm>Art. <v.norm ersatz="BayNatSchG98">23</v.norm> Abs. 1 <v.abk ersatz="BayNatSchG98">BayNatSchG</v.abk></verweis.norm> liegt.</p>
+            </li>
+          </ul>
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_9">
+      
+      <para.nr>Art. 9</para.nr>
+      <para.titel>
+        Genehmigung
+      </para.titel>
+      <jurAbsatz>
+        <absatz.nr>(1)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Die Genehmigung ist zu erteilen, wenn Anlagen nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">1</v.norm></verweis.norm> den öffentlich-rechtlichen Vorschriften, die im abgrabungsaufsichtlichen Genehmigungsverfahren zu prüfen sind, nicht widersprechen; für dem abgrabungsaufsichtlichen Genehmigungsverfahren unterliegende bauliche Anlagen gelten <verweis.norm>Art. <v.norm ersatz="BayBO">59</v.norm>, <v.norm ersatz="BayBO">60</v.norm>, <v.norm ersatz="BayBO">62a</v.norm> Abs. 2 Satz 4 und <v.norm ersatz="BayBO">62b</v.norm> Abs. 2 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> entsprechend. <satz.nr id="xx">2</satz.nr>Die abgrabungsaufsichtliche Erlaubnis erlischt, wenn innerhalb von vier Jahren nach Erteilung mit der Ausführung der Abgrabung nicht begonnen oder die Ausführung vier Jahre unterbrochen worden ist. <satz.nr id="xx">3</satz.nr><verweis.norm>Art. <v.norm ersatz="BayBO">62</v.norm> Abs. 1 Satz 4 und Art. <v.norm ersatz="BayBO">77</v.norm> Abs. 2 Satz 3 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> gelten entsprechend. <satz.nr id="xx">4</satz.nr>Vor Einreichung des Abgrabungsantrags kann auf schriftlichen Antrag zu einzelnen in der Abgrabungsgenehmigung zu entscheidenden Fragen vorweg ein schriftlicher Bescheid (Vorbescheid) erteilt werden. <satz.nr id="xx">5</satz.nr>Ist ein Abgrabungsantrag eingereicht, so kann die Ausführung von Teilen des Vorhabens auf schriftlichen Antrag schon vor Erteilung der Abgrabungsgenehmigung durch schriftlichen Bescheid (Teilabgrabungsgenehmigung) gestattet werden. <satz.nr id="xx">6</satz.nr>Für Vorbescheid und Teilabgrabungsgenehmigung gelten die Vorschriften über die Abgrabungsgenehmigung sinngemäß.</p>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(2)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>
+            <verweis.norm>Art. <v.norm ersatz="BayBO">66</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> gilt entsprechend, soweit nicht für die Fälle des <verweis.norm>Art. <v.norm ersatz="BayAbgrG">8</v.norm></verweis.norm> Abweichendes geregelt ist. <satz.nr id="xx">2</satz.nr>Die Anfechtungsklage eines Dritten gegen die Genehmigung nach Abs. 1 Satz 1 Halbsatz 1 hat keine aufschiebende Wirkung.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(3)</absatz.nr>
+        <absatz.text>
+          <p>Die Genehmigung wird unbeschadet der privaten Rechte Dritter erteilt.</p>
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(4)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Vor Bekanntgabe der Genehmigung darf mit der Ausführung der Abgrabung nicht begonnen werden. <satz.nr id="xx">2</satz.nr>Der Beginn, bei einer Unterbrechung von mehr als sechs Monaten auch die Fortsetzung der Ausführung, ist der Abgrabungsbehörde mindestens eine Woche zuvor schriftlich mitzuteilen.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_10">
+      
+      <para.nr>Art. 10</para.nr>
+      <para.titel>
+        Ordnungswidrigkeiten
+      </para.titel>
+      <jurAbsatz>
+        <absatz.nr>(1)</absatz.nr>
+        <absatz.text>
+          <p>Mit Geldbuße bis zu fünfhunderttausend Euro kann belegt werden, wer vorsätzlich oder fahrlässig</p>
+          <ul>
+            <li>
+              <symbol id="x">1.</symbol>
+              <p>eine Abgrabung ohne die nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">6</v.norm> Abs. 1</verweis.norm> erforderliche Genehmigung oder entgegen <verweis.norm>Art. <v.norm ersatz="BayAbgrG">9</v.norm> Abs. 4 Satz 1</verweis.norm> ausführt, einer mit der Genehmigung verbundenen vollziehbaren Auflage zuwiderhandelt oder den Beginn der Ausführung der Abgrabung oder der Wiederaufnahme der Abgrabung entgegen <verweis.norm>Art. <v.norm ersatz="BayAbgrG">9</v.norm> Abs. 4 Satz 2</verweis.norm> nicht oder nicht rechtzeitig anzeigt,</p>
+            </li>
+            <li>
+              <symbol id="x">2.</symbol>
+              <p>eine Abgrabung vor Ablauf der Frist nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">6</v.norm> Abs. 2 Satz 1 Nr. 3 Buchst. e</verweis.norm> und ohne dass die Gemeinde die Erklärung nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">6</v.norm> Abs. 3 Satz 2</verweis.norm> abgegeben hat, ausführt,</p>
+            </li>
+            <li>
+              <symbol id="x">3.</symbol>
+              <p>eine Abgrabung ausführt, bevor die erforderlichen Nachweise oder die Bescheinigungen verantwortlicher Sachverständiger erstellt sind,</p>
+            </li>
+            <li>
+              <symbol id="x">4.</symbol>
+              <p>eine Abgrabung entgegen einer vollziehbaren Anordnung nach <verweis.norm>Art. <v.norm ersatz="BayAbgrG">4</v.norm> Abs. 2 Satz 2</verweis.norm> ausführt.</p>
+            </li>
+          </ul>
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(2)</absatz.nr>
+        <absatz.text>
+          <p>Mit Geldbuße bis zu fünftausend Euro kann belegt werden, wer vorsätzlich oder leichtfertig unrichtige Angaben macht oder unrichtige Pläne oder Unterlagen vorlegt, um einen Verwaltungsakt nach diesem Gesetz zu erwirken oder zu verhindern.</p>
+        </absatz.text>
+      </jurAbsatz>
+      <jurAbsatz>
+        <absatz.nr>(3)</absatz.nr>
+        <absatz.text>
+          <p>
+            <satz.nr id="xx">1</satz.nr>Ist eine vorsätzliche Ordnungswidrigkeit nach Absätzen 1 und 2 begangen worden, so können</p>
+          <ul>
+            <li>
+              <symbol id="x">1.</symbol>
+              <p>Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und</p>
+            </li>
+            <li>
+              <symbol id="x">2.</symbol>
+              <p>Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind,</p>
+            </li>
+          </ul>
+          <p>eingezogen werden. <satz.nr id="xx">2</satz.nr><verweis.norm>§ <v.norm ersatz="OWiG">23</v.norm> des <v.abk ersatz="OWiG">Gesetzes über Ordnungswidrigkeiten (OWiG)</v.abk></verweis.norm> ist anzuwenden.</p>
+        
+          
+        </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+    <einzelnorm version="p" einzelnormid="P_11">
+      <para.nr />
+      <para.titel>Schlussformel</para.titel>
+      <jurAbsatz>
+        <absatz.text>
+      <p>München, den 27. Dezember 1999</p>
+      
+      <p>
+        <span class="b">Der Bayerische Ministerpräsident</span>
+      </p>
+      
+      <p>Dr. Edmund Stoiber</p>
+    </absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+  </rumpf>
+</byrecht-norm>

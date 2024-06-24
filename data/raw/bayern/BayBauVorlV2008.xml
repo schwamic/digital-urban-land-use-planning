@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE byrecht-norm PUBLIC "-//Verlag C.H.Beck/DTD Vorschriften//DE" "http://gesetze-bayern.de/schema/byrecht.normen.dtd">
+<byrecht-norm builddate="11.03.2024_01:01">
+  <kopf>
+    <angaben.versunabh>
+      <dokumentation doktyp="verordnung" dokid="BayBauVorlV2008" ersatz="BayBauVorlV2008" />
+      <ausfertigung>
+        <ausfertigungsdatum>2007-11-10</ausfertigungsdatum>
+        <fundstelle.GVBl>
+          <jahr>2007</jahr>
+          <seite>S=792</seite>
+        </fundstelle.GVBl>
+      </ausfertigung>
+    </angaben.versunabh>
+    <angaben.versabh version.id="p">
+      <inkraft>2021-02-01</inkraft>
+      
+      <fassung>
+        <fassungsdatum>2007-11-10</fassungsdatum>
+        <fundstelle.GVBl>
+          <jahr>2007</jahr>
+          <seite>S=792</seite>
+        </fundstelle.GVBl>
+      </fassung>
+      <gliederungsNr.BayRS>BayRS 2132-1-2-B
+</gliederungsNr.BayRS>
+      <kurzbezeichnung>Bauvorlagenverordnung</kurzbezeichnung>
+      <titelangaben>Verordnung über Bauvorlagen und bauaufsichtliche Anzeigen<br /> (<kurzbezeichnung>Bauvorlagenverordnung</kurzbezeichnung> – <amtlicheAbk>BauVorlV</amtlicheAbk>)<br />Vom 10. November 2007<br />(GVBl. S. 792)<br />BayRS 2132-1-2-B
+</titelangaben>
+      <amtlicheAbk>BauVorlV</amtlicheAbk>
+    </angaben.versabh>
+  </kopf>
+  <rumpf>
+    <aenderungsverlauf>
+      <p>Änderungen</p>
+      <ul>
+        <li>
+          <symbol id="x">1.</symbol>
+          <p>
+					<verweis.norm>
+						<v.abk ersatz="Bay_110_2009_0332">§ 3 V zur Änd. der FeuerungsV und weiterer Rechtsverordnungen</v.abk>
+					</verweis.norm>
+				 vom 8.7.2009<br />(
+						GVBl.
+						 S. 332)</p>
+        </li>
+        <li>
+          <symbol id="x">2.</symbol>
+          <p>
+					<verweis.norm>
+						<v.abk ersatz="BayBauKaVVAendVO_09">§ 8 V zur Änd. der BaukammernverfahrensV und weiterer Rechtsverordnungen</v.abk>
+						<fn.call><fn.text /><fn.def><p>§§ 1 bis 5 dieser Verordnung dienen der Umsetzung der <verweis.norm><v.abk ersatz="EWG_RL_2006_123">Richtlinie 2006/123/EG</v.abk></verweis.norm> des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über die Dienstleistungen im Binnenmarkt (ABl. L 376 S. 36)</p></fn.def></fn.call>
+					</verweis.norm>
+				 vom 22.10.2009<br />(
+						GVBl.
+						 S. 542)</p>
+        </li>
+        <li>
+          <symbol id="x">3.</symbol>
+          <p>
+					<verweis.norm>
+						<v.abk ersatz="Bay_110_2012_0732">§ 1 ÄndV</v.abk>
+					</verweis.norm>
+				 vom 7.12.2012<br />(
+						GVBl.
+						 S. 732)</p>
+        </li>
+        <li>
+          <symbol id="x">4.</symbol>
+          <p>
+					<verweis.norm>
+						<v.abk ersatz="Bay_110_2014_0286">§ 1 Nr. 178 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung</v.abk>
+					</verweis.norm>
+				 vom 22.7.2014<br />(
+						GVBl.
+						 S. 286)</p>
+        </li>
+        <li>
+          <symbol id="x">5.</symbol>
+          <p>
+					<verweis.norm>
+						<v.abk ersatz="Bay_110_2018_0694">§ 1 V zur Anpassung an die Bayerische Bauordnung</v.abk>
+					</verweis.norm>
+				 vom 7.8.2018<br />(
+						GVBl.
+						 S. 694)</p>
+        </li>
+        <li>
+          <symbol id="x">6.</symbol>
+          <p>
+					<verweis.norm>
+						<v.abk ersatz="Bay_110_2019_0098">§ 1 Abs. 157 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung</v.abk>
+					</verweis.norm>
+				 vom 26.3.2019<br />(
+						GVBl.
+						 S. 98)</p>
+        </li>
+        <li>
+          <symbol id="x">7.</symbol>
+          <p>
+					<verweis.norm>
+						
+						<v.abk ersatz="Bay_110_2020_0663">§ 5 G zur Vereinfachung baurechtlicher Regelungen und zur Beschleunigung sowie Förderung des Wohnungsbaus</v.abk>
+					</verweis.norm>
+				 vom 23.12.2020<br />(
+						GVBl.
+						 S. 663)</p>
+        </li>
+      </ul>
+    </aenderungsverlauf>
+    <normzitat>Bauvorlagenverordnung (BauVorlV) vom 10. November 2007 (GVBl. S. 792, BayRS 2132-1-2-B), die zuletzt durch § 5 des Gesetzes vom 23. Dezember 2020 (GVBl. S. 663) geändert worden ist</normzitat>
+    <einleitungssatz version="p">
+      <einleitungssatz.text>
+			<p>Auf Grund von <verweis.norm>Art. <v.norm ersatz="BayBO">80</v.norm> Abs. 4 der <v.abk ersatz="BayBO">Bayerischen Bauordnung (BayBO)</v.abk></verweis.norm> in der Fassung der Bekanntmachung vom 14. August 2007 (GVBl S. 588, BayRS 2132-1-I) und <verweis.norm>Art. <v.norm ersatz="BayAbgrG">7</v.norm> Abs. 2 des <v.abk ersatz="BayAbgrG">Bayerischen Abgrabungsgesetzes (BayAbgrG)</v.abk></verweis.norm> vom 27. Dezember 1999 (GVBl S. 532, 535, BayRS 2132-2-I) erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:</p>
+		</einleitungssatz.text>
+    </einleitungssatz>
+    <gliederung gliederungsid="G_1" version="p">
+			<gliederung.titel><p>
+				Erster Teil 
+				Allgemeines
+			</p></gliederung.titel>
+			<einzelnorm version="p" einzelnormid="P_1"><para.titel>
+					</para.titel><para.nr>§ 1</para.nr><para.titel>
+					Begriff, Beschaffenheit
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Bauvorlagen sind die einzureichenden Unterlagen, die für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags (<verweis.norm>Art. <v.norm ersatz="BayBO">64</v.norm> Abs. 2 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>), für die Anzeige der beabsichtigten Beseitigung (<verweis.norm>Art. <v.norm ersatz="BayBO">57</v.norm> Abs. 5 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>) oder für die Genehmigungsfreistellung (<verweis.norm>Art. <v.norm ersatz="BayBO">58</v.norm> Abs. 3 Satz 1 Halbsatz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>) erforderlich sind.
+						<satz.nr id="xx">2</satz.nr>Bautechnische Nachweise gelten auch dann als Bauvorlagen im Sinn dieser Verordnung, wenn sie der Bauaufsichtsbehörde nicht vorzulegen sind.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Bauvorlagen müssen aus alterungsbeständigem Papier oder gleichwertigem Material lichtbeständig hergestellt sein und dem Format DIN A 4 entsprechen oder auf diese Größe gefaltet sein.
+						<satz.nr id="xx">2</satz.nr>
+						<verweis.norm>Art. <v.norm ersatz="BayVwVfG">3a</v.norm> des <v.abk ersatz="BayVwVfG">Bayerischen Verwaltungsverfahrensgesetzes (BayVwVfG)</v.abk></verweis.norm> bleibt unberührt.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text><p>Hat das Staatsministerium für Wohnen, Bau und Verkehr Vordrucke öffentlich bekannt gemacht, sind diese zu verwenden.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text><p>Die Bauaufsichtsbehörde darf ein Modell oder weitere Nachweise verlangen, wenn dies zur Beurteilung des Bauvorhabens erforderlich ist.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text><p>Die Bauaufsichtsbehörde soll auf Bauvorlagen nach dem Zweiten Teil und einzelne Angaben in den Bauvorlagen sowie auf bautechnische Nachweise einschließlich deren Prüfung und deren Bescheinigung durch Prüfsachverständige verzichten, soweit diese zur Beurteilung der Genehmigungsfähigkeit des Bauvorhabens nicht erforderlich sind.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_2"><para.titel>
+					</para.titel><para.nr>§ 2</para.nr><para.titel>
+					Anzahl
+				</para.titel><jurAbsatz><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Bauvorlagen sind dreifach, ist die Gemeinde zugleich Bauaufsichtsbehörde, zweifach einzureichen.
+						<satz.nr id="xx">2</satz.nr>Die Bauaufsichtsbehörde kann Mehrfertigungen verlangen, soweit dies zur Beteiligung von Stellen nach <verweis.norm>Art. <v.norm ersatz="BayBO">65</v.norm> Abs. 1 Satz 1 Halbsatz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> (Sternverfahren) erforderlich ist; die Mehrfertigungen müssen nicht nach <verweis.norm>Art. <v.norm ersatz="BayBO">51</v.norm> Abs. 2 Satz 2</verweis.norm>, <verweis.norm>Art. <v.norm ersatz="BayBO">64</v.norm> Abs. 4 Sätze 1 und 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> unterschrieben sein.
+						<satz.nr id="xx">3</satz.nr>Im Fall der Errichtung, Änderung oder Nutzungsänderung einer baulichen Anlage mit Arbeitsstätten mit einem höheren Gefährdungspotential ist eine weitere Ausfertigung vorzulegen, die die Bauaufsichtsbehörde an das Gewerbeaufsichtsamt der zuständigen Regierung weiterleitet; ein höheres Gefährdungspotential liegt in der Regel nicht vor bei</p><ul><li><symbol id="x">1.</symbol><p>Schulen, Hochschulen und ähnlichen Einrichtungen,</p></li><li><symbol id="x">2.</symbol><p>Gesundheitseinrichtungen, ausgenommen Krankenhäuser,</p></li><li><symbol id="x">3.</symbol><p>Heimen und sonstigen Einrichtungen zur Unterbringung oder Pflege von Personen sowie Tageseinrichtungen für Kinder, behinderte und alte Menschen, ausgenommen Werkstätten für Menschen mit Behinderung,</p></li><li><symbol id="x">4.</symbol><p>Gast- und Beherbergungsstätten und Lagereinrichtungen mit voraussichtlich weniger als 20 Beschäftigten,</p></li><li><symbol id="x">5.</symbol><p>Büro- und Verwaltungsgebäuden,</p></li><li><symbol id="x">6.</symbol><p>Anlagen des Dienstleistungs- sowie des Verlags- und Mediengewerbes, ausgenommen Anlagen des Druckgewerbes,</p></li><li><symbol id="x">7.</symbol><p>Anlagen des Bau- und Elektroinstallationsgewerbes,</p></li><li><symbol id="x">8.</symbol><p>Verkaufsstätten mit einer Fläche von weniger als 2000 m<sup>2</sup>,</p></li><li><symbol id="x">9.</symbol><p>Anlagen der Land- und Forstwirtschaft sowie der Fischerei,</p></li><li><symbol id="x">10.</symbol><p>Anlagen von Verkehrsbetrieben, ausgenommen Anlagen zum Güterumschlag,</p></li><li><symbol id="x">11.</symbol><p>Anlagen von Versorgungsbetrieben, ausgenommen Anlagen zum Güterumschlag.</p></li></ul></absatz.text></jurAbsatz></einzelnorm>
+		</gliederung>
+    <gliederung gliederungsid="G_2" version="p">
+			<gliederung.titel><p>
+				Zweiter Teil 
+				Vorzulegende Bauvorlagen
+			</p></gliederung.titel>
+			<einzelnorm version="p" einzelnormid="P_3"><para.titel>
+					</para.titel><para.nr>§ 3</para.nr><para.titel>
+					Bauliche Anlagen
+				</para.titel><jurAbsatz><absatz.text><p>Vorzulegen sind:</p><ul><li><symbol id="x">1.</symbol><p>ein aktueller Auszug aus dem Katasterwerk und, soweit es sich nicht um Änderungen baulicher Anlagen handelt, bei denen Außenwände und Dächer sowie die Nutzung nicht verändert werden, der Lageplan (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">7</v.norm>)</verweis.norm>,</p></li><li><symbol id="x">2.</symbol><p>die Bauzeichnungen (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">8</v.norm>)</verweis.norm>,</p></li><li><symbol id="x">3.</symbol><p>die Baubeschreibung (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">9</v.norm>)</verweis.norm>,</p></li><li><symbol id="x">4.</symbol><p>bei Sonderbauten der Nachweis der Standsicherheit (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">10</v.norm></verweis.norm>), soweit er bauaufsichtlich geprüft wird, andernfalls die Erklärung des Tragwerksplaners nach Maßgabe des Kriterienkatalogs der <span class="b">Anlage 2</span>,</p></li><li><symbol id="x">5.</symbol><p>der Nachweis des Brandschutzes (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">11</v.norm></verweis.norm>), soweit er bauaufsichtlich geprüft wird und nicht bereits in den übrigen Bauvorlagen enthalten ist,</p></li><li><symbol id="x">6.</symbol><p>die erforderlichen Angaben über die gesicherte Erschließung hinsichtlich der Versorgung mit Wasser und Energie sowie der Entsorgung von Abwasser und der verkehrsmäßigen Erschließung, soweit das Bauvorhaben nicht an eine öffentliche Wasser- oder Energieversorgung oder eine öffentliche Abwasserentsorgungsanlage angeschlossen werden kann oder nicht in ausreichender Breite an einer öffentlichen Verkehrsfläche liegt,</p></li><li><symbol id="x">7.</symbol><p>bei Bauvorhaben im Geltungsbereich eines Bebauungsplans, der Festsetzungen darüber enthält, eine Berechnung des zulässigen, des vorhandenen und des geplanten Maßes der baulichen Nutzung,</p></li><li><symbol id="x">8.</symbol><p>soweit erforderlich, die Erklärung der Übernahme einer Abstandsfläche nach <verweis.norm>Art. <v.norm ersatz="BayBO">6</v.norm> Abs. 2 Satz 3 Halbsatz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>,</p></li><li><symbol id="x">9.</symbol><p>erforderliche Abweichungsanträge (<verweis.norm>Art. <v.norm ersatz="BayBO">63</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>).</p></li></ul></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_4"><para.titel>
+					</para.titel><para.nr>§ 4</para.nr><para.titel>
+					Werbeanlagen
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>Vorzulegen sind:</p><ul><li><symbol id="x">1.</symbol><p>ein aktueller Auszug aus dem Katasterwerk mit Einzeichnung des Standorts,</p></li><li><symbol id="x">2.</symbol><p>eine Zeichnung (Abs. 2) und Beschreibung (Abs. 3) oder eine andere geeignete Darstellung der Werbeanlage, wie ein farbiges Lichtbild oder eine farbige Lichtbildmontage,</p></li><li><symbol id="x">3.</symbol><p>bei Sonderbauten der Nachweis der Standsicherheit (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">10</v.norm>)</verweis.norm>, soweit er bauaufsichtlich geprüft wird, andernfalls die Erklärung des Tragwerkplaners nach Maßgabe des Kriterienkatalogs der Anlage 2.</p></li></ul></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>Die Zeichnung muss die Darstellung der Werbeanlage und ihre Maße, auch bezogen auf den Standort und auf Anlagen, an denen die Werbeanlage angebracht oder in deren Nähe sie aufgestellt werden soll, sowie Angaben über die Farbgestaltung enthalten.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text><p>In der Beschreibung sind die Art und die Beschaffenheit der Werbeanlage, sowie, soweit erforderlich, die Abstände zu öffentlichen Verkehrsflächen sowie zu benachbarten Signalanlagen und Verkehrszeichen anzugeben.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_5"><para.titel>
+					</para.titel><para.nr>§ 5</para.nr><para.titel>
+					Vorbescheid
+				</para.titel><jurAbsatz><absatz.text><p>Vorzulegen sind diejenigen Bauvorlagen, die zur Beurteilung der durch den Vorbescheid zu entscheidenden Fragen des Bauvorhabens erforderlich sind.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_6"><para.titel>
+					</para.titel><para.nr>§ 6</para.nr><para.titel>
+					Beseitigung von Anlagen
+				</para.titel><jurAbsatz><absatz.text><p>Vorzulegen sind:</p><ul><li><symbol id="x">1.</symbol><p>ein Lageplan, der die Lage der zu beseitigenden Anlagen unter Bezeichnung des Grundstücks nach Katasterwerk sowie nach Straße und Hausnummer darstellt (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">7</v.norm>)</verweis.norm>,</p></li><li><symbol id="x">2.</symbol><p>in den Fällen des <verweis.norm>Art. <v.norm ersatz="BayBO">57</v.norm> Abs. 5 Satz 3 Halbsatz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> die Erklärung des Tragwerksplaners über die Standsicherheit angebauter Gebäude.</p></li></ul></absatz.text></jurAbsatz></einzelnorm>
+		</gliederung>
+    <gliederung gliederungsid="G_3" version="p">
+			<gliederung.titel><p>
+				Dritter Teil 
+				Inhalt der Bauvorlagen
+			</p></gliederung.titel>
+			<einzelnorm version="p" einzelnormid="P_7"><para.titel>
+					</para.titel><para.nr>§ 7</para.nr><para.titel>
+					Auszug aus dem Katasterwerk, Lageplan
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Der Auszug aus dem Katasterwerk (Ausschnitt aus der Flurkarte) muss das Baugrundstück und die benachbarten Grundstücke im Umkreis von mindestens 50 m darstellen.
+						<satz.nr id="xx">2</satz.nr>Das Baugrundstück ist zu kennzeichnen.
+						<satz.nr id="xx">3</satz.nr>Der Auszug ist mit dem Namen des Bauherrn, der Bezeichnung des Bauvorhabens und dem Datum des dazugehörigen Bauantrags oder der Unterlagen nach <verweis.norm>Art. <v.norm ersatz="BayBO">58</v.norm> Abs. 3 Satz 1 Halbsatz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> zu beschriften.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Der Lageplan ist auf der Grundlage des Auszugs aus dem Katasterwerk zu erstellen.
+						<satz.nr id="xx">2</satz.nr>Dabei ist ein Maßstab nicht kleiner als 1 : 1000 zu verwenden.
+						<satz.nr id="xx">3</satz.nr>Ein größerer Maßstab ist zu wählen, wenn es für die Beurteilung des Bauvorhabens erforderlich ist.
+						<satz.nr id="xx">4</satz.nr>Der Auszug muss jeweils von der katasterführenden Behörde (<verweis.norm>Art. <v.norm ersatz="BayVermKatG">12</v.norm> Abs. 4 des <v.abk ersatz="BayVermKatG">Vermessungs- und Katastergesetzes – VermKatG)</v.abk></verweis.norm> beglaubigt oder durch ein automatisiertes Abrufverfahren gemäß <verweis.norm>Art. <v.norm ersatz="VermKatG">11</v.norm> Abs. 2 <v.abk ersatz="VermKatG">VermKatG</v.abk></verweis.norm> zum Zweck der Bauvorlage abgerufen worden sein.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text><p>Der Lageplan muss, soweit dies zur Beurteilung des Bauvorhabens erforderlich ist, enthalten:</p><ul><li><symbol id="x">1.</symbol><p>den Maßstab und die Nordrichtung,</p></li><li><symbol id="x">2.</symbol><p>die katastermäßigen Flächen, Flurstücksnummern und die Flurstücksgrenzen des Baugrundstücks und der benachbarten Grundstücke,</p></li><li><symbol id="x">3.</symbol><p>die im Grundbuch geführte Bezeichnung des Baugrundstücks und der benachbarten Grundstücke mit den jeweiligen Eigentümerangaben,</p></li><li><symbol id="x">4.</symbol><p>die vorhandenen baulichen Anlagen auf dem Baugrundstück und den benachbarten Grundstücken mit Angabe ihrer Nutzung, First- und Außenwandhöhe, Dachform und der Art der Außenwände und der Bedachung,</p></li><li><symbol id="x">5.</symbol><p>Baudenkmäler einschließlich Ensembles sowie geschützte Teile von Natur und Landschaft auf dem Baugrundstück und auf den Nachbargrundstücken,</p></li><li><symbol id="x">6.</symbol><p>Leitungen, die der öffentlichen Versorgung mit Wasser, Gas, Elektrizität, Wärme, der öffentlichen Abwasserentsorgung oder der Telekommunikation und Rohrleitungen, die dem Ferntransport von Stoffen dienen, sowie deren Abstände zu der geplanten baulichen Anlage,</p></li><li><symbol id="x">7.</symbol><p>die angrenzenden öffentlichen Verkehrsflächen mit Angabe der Breite, der Straßenklasse und der Höhenlage mit Bezug auf das Höhenbezugssystem,</p></li><li><symbol id="x">8.</symbol><p>Hydranten und andere Wasserentnahmestellen für die Feuerwehr,</p></li><li><symbol id="x">9.</symbol><p>die Festsetzungen eines Bebauungsplans für das Baugrundstück über die überbaubaren und die nicht überbaubaren Grundstücksflächen,</p></li><li><symbol id="x">10.</symbol><p>die geplante bauliche Anlage unter Angabe der Außenmaße, der Dachform und der Höhenlage des Erdgeschossfußbodens zur Straße,</p></li><li><symbol id="x">11.</symbol><p>die Höhenlage der Eckpunkte des Baugrundstücks und der Eckpunkte der geplanten baulichen Anlage mit Bezug auf das Höhenbezugssystem,</p></li><li><symbol id="x">12.</symbol><p>die Aufteilung der nicht überbauten Flächen unter Angabe der Lage und Breite der Zu- und Abfahrten, der Anzahl, Lage und Größe der Kinderspielplätze, der Stellplätze und der Flächen für die Feuerwehr,</p></li><li><symbol id="x">13.</symbol><p>die Abstände der geplanten baulichen Anlage zu anderen baulichen Anlagen auf dem Baugrundstück und auf den benachbarten Grundstücken, zu den Nachbargrenzen sowie die Abstandsflächen der geplanten baulichen Anlagen und der bestehenden Anlagen auf dem Baugrundstück und den Nachbargrundstücken,</p></li><li><symbol id="x">14.</symbol><p>die Abstände der geplanten baulichen Anlage zu oberirdischen Gewässern,</p></li><li><symbol id="x">15.</symbol><p>geschützten Baumbestand.</p></li></ul></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text><p>Der Inhalt des Lageplans nach Abs. 3 ist auf besonderen Blättern in geeignetem Maßstab darzustellen, wenn der Lageplan sonst unübersichtlich würde.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(5)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Im Lageplan sind die Zeichen oder Farben der <span class="b"><verweis.norm>Anlage 1</verweis.norm></span> zu verwenden; im Übrigen ist die Planzeichenverordnung 1990 entsprechend anzuwenden.
+						<satz.nr id="xx">2</satz.nr>Sonstige Darstellungen sind zu erläutern.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_8"><para.titel>
+					</para.titel><para.nr>§ 8</para.nr><para.titel>
+					Bauzeichnungen
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Für die Bauzeichnungen ist ein Maßstab von 1 : 100 zu verwenden.
+						<satz.nr id="xx">2</satz.nr>Ein größerer Maßstab ist zu wählen, wenn er zur Darstellung der erforderlichen Eintragung notwendig ist; ein kleinerer Maßstab kann gewählt werden, wenn er dafür ausreicht.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>In den Bauzeichnungen sind darzustellen:</p><ul><li><symbol id="x">1.</symbol><p>die Grundrisse aller Geschosse mit Angabe der vorgesehenen Nutzung der Räume und mit Einzeichnung der</p><ul><li><symbol id="x">a)</symbol><p>Treppen,</p></li><li><symbol id="x">b)</symbol><p>lichten Durchgangsmaße der Türen sowie deren Art, Anordnung und Aufschlagrichtung an und in Rettungswegen,</p></li><li><symbol id="x">c)</symbol><p>Abgasanlagen,</p></li><li><symbol id="x">d)</symbol><p>Räume für die Aufstellung von Feuerstätten unter Angabe der Nennleistung sowie der Räume für die Brennstofflagerung unter Angabe der vorgesehenen Art und Menge des Brennstoffes,</p></li><li><symbol id="x">e)</symbol><p>Aufzugsschächte, Aufzüge und der nutzbaren Grundflächen der Fahrkörbe von Personenaufzügen,</p></li><li><symbol id="x">f)</symbol><p>Installationsschächte, -kanäle und Lüftungsleitungen, soweit sie raumabschließende Bauteile durchdringen,</p></li><li><symbol id="x">g)</symbol><p>Räume für die Aufstellung von Lüftungsanlagen,</p></li></ul></li><li><symbol id="x">2.</symbol><p>die Schnitte, aus denen folgende Punkte ersichtlich sind:</p><ul><li><symbol id="x">a)</symbol><p>die Gründung der geplanten baulichen Anlage und, soweit erforderlich, die Gründungen anderer baulicher Anlagen,</p></li><li><symbol id="x">b)</symbol><p>der Anschnitt der vorhandenen und der geplanten Geländeoberfläche,</p></li><li><symbol id="x">c)</symbol><p>die Höhenlage des Erdgeschossfußbodens mit Bezug auf das Höhenbezugssystem,</p></li><li><symbol id="x">d)</symbol><p>die Höhe der Fußbodenoberkante des höchstgelegenen Geschosses, in dem ein Aufenthaltsraum möglich ist, über der geplanten Geländeoberfläche,</p></li><li><symbol id="x">e)</symbol><p>die lichten Raumhöhen,</p></li><li><symbol id="x">f)</symbol><p>der Verlauf der Treppen und Rampen mit ihrem Steigungsverhältnis,</p></li><li><symbol id="x">g)</symbol><p>die Wandhöhe im Sinn des <verweis.norm>Art. <v.norm ersatz="BayBO">6</v.norm> Abs. 4 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>,</p></li><li><symbol id="x">h)</symbol><p>die Dachhöhen und Dachneigungen,</p></li></ul></li><li><symbol id="x">3.</symbol><p>die Ansichten der geplanten baulichen Anlage mit dem Anschluss an Nachbargebäude unter Angabe von Baustoffen und Farben, der vorhandenen und geplanten Geländeoberfläche sowie des Straßengefälles.</p></li></ul></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text><p>In den Bauzeichnungen sind anzugeben:</p><ul><li><symbol id="x">1.</symbol><p>der Maßstab und die Maße,</p></li><li><symbol id="x">2.</symbol><p>die wesentlichen Bauprodukte und Bauarten,</p></li><li><symbol id="x">3.</symbol><p>die Rohbaumaße der Fensteröffnungen in Aufenthaltsräumen,</p></li><li><symbol id="x">4.</symbol><p>bei Änderung baulicher Anlagen die zu beseitigenden und die geplanten Bauteile.</p></li></ul></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(4)</absatz.nr><absatz.text><p>In den Bauzeichnungen sind die Zeichen oder Farben der <span class="b">Anlage 1</span> zu verwenden.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_9"><para.titel>
+					</para.titel><para.nr>§ 9</para.nr><para.titel>
+					Baubeschreibung
+				</para.titel><jurAbsatz><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>In der Baubeschreibung sind das Bauvorhaben und seine Nutzung zu erläutern, soweit dies zur Beurteilung erforderlich ist und die notwendigen Angaben nicht im Lageplan und den Bauzeichnungen enthalten sind.
+						<satz.nr id="xx">2</satz.nr>Die Gebäudeklasse und die Höhe im Sinn des <verweis.norm>Art. <v.norm ersatz="BayBO">2</v.norm> Abs. 3 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> sind anzugeben.
+						<satz.nr id="xx">3</satz.nr>Die Baukosten der baulichen Anlagen einschließlich der dazugehörenden Wasserversorgungsanlagen auf dem Baugrundstück sind anzugeben.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_10"><para.titel>
+					</para.titel><para.nr>§ 10</para.nr><para.titel>
+					Standsicherheitsnachweis
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>Für den Nachweis der Standsicherheit tragender Bauteile einschließlich ihrer Feuerwiderstandsfähigkeit nach <verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">11</v.norm> Abs. 1 Satz 1 Nr. 1</verweis.norm> sind eine Darstellung des gesamten statischen Systems sowie die erforderlichen Konstruktionszeichnungen, Berechnungen und Beschreibungen vorzulegen.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Die statischen Berechnungen müssen die Standsicherheit der baulichen Anlagen und ihrer Teile nachweisen.
+						<satz.nr id="xx">2</satz.nr>Die Beschaffenheit des Baugrunds und seine Tragfähigkeit sind anzugeben.
+						<satz.nr id="xx">3</satz.nr>Soweit erforderlich, ist nachzuweisen, dass die Standsicherheit anderer baulicher Anlagen und die Tragfähigkeit des Baugrunds der Nachbargrundstücke nicht gefährdet werden.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text><p>Die Standsicherheit kann auf andere Weise als durch statische Berechnungen nachgewiesen werden, wenn hierdurch die Anforderungen an einen Standsicherheitsnachweis in gleichem Maße erfüllt werden.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_11"><para.titel>
+					</para.titel><para.nr>§ 11</para.nr><para.titel>
+					Brandschutznachweis
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>Für den Nachweis des Brandschutzes sind im Lageplan, in den Bauzeichnungen und in der Baubeschreibung, soweit erforderlich, anzugeben:</p><ul><li><symbol id="x">1.</symbol><p>das Brandverhalten der Baustoffe (Baustoffklasse) und die Feuerwiderstandsfähigkeit der Bauteile (Feuerwiderstandsklasse) entsprechend den Benennungen nach <verweis.norm>Art. <v.norm ersatz="BayBO">24</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> oder entsprechend den Klassifizierungen nach den Anlagen zur Bauregelliste A Teil 1,</p></li><li><symbol id="x">2.</symbol><p>die Bauteile, Einrichtungen und Vorkehrungen, an die Anforderungen hinsichtlich des Brandschutzes gestellt werden, wie Brandwände und Decken, Trennwände, Unterdecken, Installationsschächte und -kanäle, Lüftungsanlagen, Feuerschutzabschlüsse und Rauchschutztüren, Öffnungen zur Rauchableitung, einschließlich der Fenster nach <verweis.norm>Art. <v.norm ersatz="BayBO">33</v.norm> Abs. 8 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>,</p></li><li><symbol id="x">3.</symbol><p>die Nutzungseinheiten, die Brand- und Rauchabschnitte,</p></li><li><symbol id="x">4.</symbol><p>die aus Gründen des Brandschutzes erforderlichen Abstände innerhalb und außerhalb des Gebäudes,</p></li><li><symbol id="x">5.</symbol><p>der erste und zweite Rettungsweg nach <verweis.norm>Art. <v.norm ersatz="BayBO">31</v.norm> <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>, insbesondere notwendige Treppenräume, Ausgänge, notwendige Flure, mit Rettungsgeräten der Feuerwehr erreichbare Stellen einschließlich der Fenster, die als Rettungswege nach <verweis.norm>Art. <v.norm ersatz="BayBO">31</v.norm> Abs. 2 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> dienen, unter Angabe der lichten Maße und Brüstungshöhen,</p></li><li><symbol id="x">6.</symbol><p>die Flächen für die Feuerwehr, Zu- und Durchgänge, Zu- und Durchfahrten, Bewegungsflächen und die Aufstellflächen für Hubrettungsfahrzeuge,</p></li><li><symbol id="x">7.</symbol><p>die Löschwasserversorgung.</p></li></ul></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Bei Sonderbauten, Mittel- und Großgaragen müssen, soweit es für die Beurteilung erforderlich ist, zusätzlich Angaben gemacht werden, insbesondere über:</p><ul><li><symbol id="x">1.</symbol><p>brandschutzrelevante Einzelheiten der Nutzung, insbesondere auch die Anzahl und Art der die bauliche Anlage nutzenden Personen sowie Explosions- oder erhöhte Brandgefahren, Brandlasten, Gefahrstoffe und Risikoanalysen,</p></li><li><symbol id="x">2.</symbol><p>Rettungswegbreiten und -längen, Einzelheiten der Rettungswegführung und -ausbildung einschließlich Sicherheitsbeleuchtung und -kennzeichnung,</p></li><li><symbol id="x">3.</symbol><p>technische Anlagen und Einrichtungen zum Brandschutz, wie Branderkennung, Brandmeldung, Alarmierung, Brandbekämpfung, Rauchableitung, Rauchfreihaltung,</p></li><li><symbol id="x">4.</symbol><p>die Sicherheitsstromversorgung,</p></li><li><symbol id="x">5.</symbol><p>die Bemessung der Löschwasserversorgung, Einrichtungen zur Löschwasserentnahme sowie die Löschwasserrückhaltung,</p></li><li><symbol id="x">6.</symbol><p>betriebliche und organisatorische Maßnahmen zur Brandverhütung, Brandbekämpfung und Rettung von Menschen und Tieren wie Feuerwehrplan, Brandschutzordnung, Werkfeuerwehr, Bestellung von Brandschutzbeauftragten und Selbsthilfekräften.</p></li></ul><p>
+						<satz.nr id="xx">2</satz.nr>Anzugeben ist auch, weshalb es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf (<verweis.norm>Art. <v.norm ersatz="BayBO">54</v.norm> Abs. 3 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>).
+						<satz.nr id="xx">3</satz.nr>Der Brandschutznachweis kann auch gesondert in Form eines objektbezogenen Brandschutzkonzepts dargestellt werden.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_12"><para.titel>
+					</para.titel><para.nr>§ 12</para.nr><para.titel>
+					
+						
+						Nachweise für Schall- und Erschütterungsschutz
+					
+				</para.titel><jurAbsatz><absatz.text><p>Die Berechnungen müssen den nach bauordnungsrechtlichen Vorschriften geforderten Schall- und Erschütterungsschutz nachweisen.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_13"><para.titel>
+					</para.titel><para.nr>§ 13</para.nr><para.titel>
+					Übereinstimmungsgebot
+				</para.titel><jurAbsatz><absatz.text><p>Die Bauzeichnungen, Baubeschreibungen, Berechnungen und Konstruktionszeichnungen sowie sonstige Zeichnungen und Beschreibungen, die den bautechnischen Nachweisen zugrunde liegen, müssen miteinander übereinstimmen und gleiche Positionsangaben haben.</p></absatz.text></jurAbsatz></einzelnorm>
+		</gliederung>
+    <gliederung gliederungsid="G_4" version="p">
+			<gliederung.titel><p>
+				Vierter Teil 
+				Abgrabungsplan
+			</p></gliederung.titel>
+			<einzelnorm version="p" einzelnormid="P_14"><para.titel>
+					</para.titel><para.nr>§ 14</para.nr><para.titel>
+					Abgrabungsplan
+				</para.titel><jurAbsatz><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Für den Abgrabungsplan (<verweis.norm>Art. <v.norm ersatz="BayAbgrG">7</v.norm> Abs. 1 Satz 1 <v.abk ersatz="BayAbgrG">BayAbgrG</v.abk></verweis.norm>) gelten die Vorschriften des Ersten bis Dritten Teils entsprechend.
+						<satz.nr id="xx">2</satz.nr>In den Fällen des <verweis.norm>Art. <v.norm ersatz="BayAbgrG">8</v.norm> <v.abk ersatz="BayAbgrG">BayAbgrG</v.abk></verweis.norm> bleiben weitergehende Anforderungen nach Abschnitt III des Fünften Teils BayVwVfG unberührt.</p></absatz.text></jurAbsatz></einzelnorm>
+		</gliederung>
+    <gliederung gliederungsid="G_5" version="p">
+			<gliederung.titel><p>
+				Fünfter Teil 
+				Bauzustandsanzeigen
+			</p></gliederung.titel>
+			<einzelnorm version="p" einzelnormid="P_15"><para.titel>
+					</para.titel><para.nr>§ 15</para.nr><para.titel>
+					Baubeginnsanzeige
+				</para.titel><jurAbsatz><absatz.nr>(1)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Soweit bautechnische Nachweise nicht bauaufsichtlich geprüft und nicht durch einen Prüfsachverständigen bescheinigt werden, ist eine Erklärung des jeweiligen Nachweiserstellers nach den <verweis.norm>Art. <v.norm ersatz="BayBO">62</v.norm> Abs. 2, Art. <v.norm ersatz="BayBO">62a</v.norm> Abs. 1 und Art. <v.norm ersatz="BayBO">62b</v.norm> Abs. 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> über die Erstellung des bautechnischen Nachweises spätestens mit der Baubeginnsanzeige (<verweis.norm>Art. <v.norm ersatz="BayBO">68</v.norm> Abs. 8</verweis.norm>, <verweis.norm>Art. <v.norm ersatz="BayBO">58</v.norm> Abs. 5 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>) vorzulegen.
+						<satz.nr id="xx">2</satz.nr>Wird das Bauvorhaben abschnittsweise ausgeführt, muss die Erklärung spätestens bei Beginn der Ausführung des jeweiligen Bauabschnitts vorliegen.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(2)</absatz.nr><absatz.text><p>Für die nach <verweis.norm>Art. <v.norm ersatz="BayBO">68</v.norm> Abs. 6 Nr. 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> vorzulegenden Bescheinigungen nach den <verweis.norm>Art. <v.norm ersatz="BayBO">62a</v.norm> Abs. 2, Art. <v.norm ersatz="BayBO">62b</v.norm> Abs. 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> gilt Abs. 1 Satz 2 entsprechend.</p></absatz.text></jurAbsatz><jurAbsatz><absatz.nr>(3)</absatz.nr><absatz.text><p>
+						<satz.nr id="xx">1</satz.nr>Muss der Standsicherheitsnachweis bei Bauvorhaben nach <verweis.norm>Art. <v.norm ersatz="BayBO">62a</v.norm> Abs. 2 Satz 1 Nr. 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> nicht bauaufsichtlich geprüft und nicht durch einen Prüfsachverständigen bescheinigt werden, ist spätestens mit der Baubeginnsanzeige eine Erklärung des Tragwerksplaners hierüber nach Maßgabe des Kriterienkatalogs der Anlage 2 vorzulegen.
+						<satz.nr id="xx">2</satz.nr>Dies gilt nicht für Bauvorhaben nach <verweis.norm>Art. <v.norm ersatz="BayBO">62a</v.norm> Abs. 2 Satz 3 Nr. 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm>.</p></absatz.text></jurAbsatz></einzelnorm>
+			<einzelnorm version="p" einzelnormid="P_16"><para.titel>
+					</para.titel><para.nr>§ 16</para.nr><para.titel>
+					Anzeige der beabsichtigten Nutzungsaufnahme
+				</para.titel><jurAbsatz><absatz.text><p>Sind bei einem Bauvorhaben wiederkehrende bauaufsichtliche Prüfungen durch Rechtsverordnung nach <verweis.norm>Art. <v.norm ersatz="BayBO">80</v.norm> Abs. 1 Satz 1 Nr. 4 oder 5 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> oder im Einzelfall vorgeschrieben, ist mit der Anzeige nach <verweis.norm>Art. <v.norm ersatz="BayBO">78</v.norm> Abs. 2 Satz 1 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> über die in <verweis.norm>Art. <v.norm ersatz="BayBO">78</v.norm> Abs. 2 Satz 2 <v.abk ersatz="BayBO">BayBO</v.abk></verweis.norm> genannten Bescheinigungen und Bestätigungen hinaus der Brandschutznachweis (<verweis.norm>§ <v.norm ersatz="BayBauVorlV2008">11</v.norm></verweis.norm>) vorzulegen, soweit er nicht bauaufsichtlich geprüft ist.</p></absatz.text></jurAbsatz></einzelnorm>
+		</gliederung>
+    <gliederung gliederungsid="G_6" version="p">
+			<gliederung.titel><p>
+				Sechster Teil 
+				Inkrafttreten, Außerkrafttreten
+			</p></gliederung.titel>
+			<einzelnorm version="p" einzelnormid="P_17"><para.titel>
+					</para.titel><para.nr>§ 17</para.nr><para.titel>
+					Inkrafttreten
+				</para.titel><jurAbsatz><absatz.text><p>
+						Diese Verordnung tritt am 1. Januar 2008 in Kraft.</p></absatz.text></jurAbsatz></einzelnorm>
+		</gliederung>
+    <einzelnorm version="p" einzelnormid="P_18">
+      <para.nr />
+      <para.titel>Schlussformel</para.titel>
+      <jurAbsatz>
+        <absatz.text>
+			<p>München, den 10. November 2007</p>
+			<p>
+				<span class="b">Bayerisches Staatsministerium des Innern</span>
+			</p>
+			<p>Joachim Herrmann, Staatsminister</p>
+		</absatz.text>
+      </jurAbsatz>
+    </einzelnorm>
+  </rumpf>
+  <annex version="p" annexid="ANL_1">
+    <annex.koerper version="p"><annex.nummer>Anlage 1</annex.nummer><annex.nummer int="1">Anlage 1</annex.nummer><annex.titel>Zeichen und Farben für Bauvorlagen (zu § 7 Abs. 5 und § 8 Abs. 4)</annex.titel><annex.text><p>
+				<graphic FileRef="BayBauVorlV2008_BayBauVorlV2008-A0001-N001.gif" Desc="Abbildung: Zeichen und Farben für Bauvorlagen " />
+				
+			</p></annex.text></annex.koerper>
+  </annex>
+  <annex version="p" annexid="ANL_2">
+    <annex.koerper version="p"><annex.nummer>Anlage 2</annex.nummer><annex.nummer int="1">Anlage 2</annex.nummer><annex.titel>Kriterienkatalog nach § 15 Abs. 3</annex.titel><annex.text><p>Sind die nachfolgenden Kriterien ausnahmslos erfüllt, ist eine Prüfung des Standsicherheitsnachweises nicht erforderlich:</p></annex.text><annex.text><ul>
+				<li>
+					<symbol id="x">1.</symbol>
+					<p>Die Baugrundverhältnisse sind eindeutig und erlauben eine übliche Flachgründung entsprechend DIN 1054. Ausgenommen sind Gründungen auf setzungsempfindlichem Baugrund.</p>
+				</li>
+				<li>
+					<symbol id="x">2.</symbol>
+					<p>Bei erddruckbelasteten Gebäuden beträgt die Höhendifferenz zwischen Gründungssohle und Erdoberfläche maximal 4 m. Einwirkungen aus Wasserdruck müssen rechnerisch nicht berücksichtigt werden.</p>
+				</li>
+				<li>
+					<symbol id="x">3.</symbol>
+					<p>Angrenzende bauliche Anlagen oder öffentliche Verkehrsflächen werden nicht beeinträchtigt. Nachzuweisende Unterfangungen oder Baugrubensicherungen sind nicht erforderlich.</p>
+				</li>
+				<li>
+					<symbol id="x">4.</symbol>
+					<p>Die tragenden und aussteifenden Bauteile gehen im Wesentlichen bis zu den Fundamenten unversetzt durch. Ein rechnerischer Nachweis der Gebäudeaussteifung, auch für Teilbereiche, ist nicht erforderlich.</p>
+				</li>
+				<li>
+					<symbol id="x">5.</symbol>
+					<p>Die Geschossdecken sind linienförmig gelagert und dürfen für gleichmäßig verteilte Lasten (kN/m<sup>2</sup>) und Linienlasten aus nichttragenden Wänden (kN/m) bemessen werden. Geschossdecken ohne ausreichende Querverteilung erhalten keine Einzellasten.</p>
+				</li>
+				<li>
+					<symbol id="x">6.</symbol>
+					<p>Die Bauteile der baulichen Anlage oder die bauliche Anlage selbst können mit einfachen Verfahren der Baustatik berechnet oder konstruktiv festgelegt werden. Räumliche Tragstrukturen müssen rechnerisch nicht nachgewiesen werden. Besondere Stabilitäts-, Verformungs- und Schwingungsuntersuchungen sind nicht erforderlich.</p>
+				</li>
+				<li>
+					<symbol id="x">7.</symbol>
+					<p>Außergewöhnliche sowie dynamische Einwirkungen sind nicht vorhanden. Beanspruchungen aus Erdbeben müssen rechnerisch nicht verfolgt werden.</p>
+				</li>
+				<li>
+					<symbol id="x">8.</symbol>
+					<p>Besondere Bauarten wie Spannbetonbau, Verbundbau, Leimholzbau und geschweißte Aluminiumkonstruktionen werden nicht angewendet.</p>
+				</li>
+			</ul></annex.text></annex.koerper>
+  </annex>
+</byrecht-norm>
