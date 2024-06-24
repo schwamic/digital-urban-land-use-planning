@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.interactiveWindow.textEditor.executeSelection": true,
+		"editor.formatOnSave": true,
+		"workbench.productIconTheme": "fluent-icons",
+	}
+}
