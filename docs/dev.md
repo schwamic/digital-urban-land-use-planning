@@ -4,8 +4,9 @@
 `conda env export > environment.yml`
 
 
-## Quellen
+## Docs & Guides
 
 1. [CookieCutter Docs](https://cookiecutter-data-science.drivendata.org/)
 2. [Conda Docs](https://docs.conda.io/projects/conda/en/stable/user-guide/index.html)
-3. [OpenAi Docs](https://platform.openai.com/docs/quickstart)
+3. [OpenAI Docs](https://platform.openai.com/docs/quickstart)
+4. [Prompting Guide](https://www.promptingguide.ai/techniques)
