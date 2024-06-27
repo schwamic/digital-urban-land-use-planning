@@ -2,7 +2,7 @@
 
 1. Keep conda environment up to date via cli command:
 `conda env export > environment.yml`
-
+`python -m pip install <lib>`
 
 ## Docs & Guides
 
