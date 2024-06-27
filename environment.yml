@@ -121,13 +121,17 @@ dependencies:
       - charset-normalizer==3.3.2
       - click==8.1.7
       - coloredlogs==15.0.1
+      - contourpy==1.2.1
       - cookiecutter==2.6.0
+      - cycler==0.12.1
       - dataclasses-json==0.6.4
       - datasets==2.18.0
       - dill==0.3.8
+      - fonttools==4.53.0
       - humanfriendly==10.0
       - idna==3.6
       - jsonpointer==2.4
+      - kiwisolver==1.4.5
       - langchain==0.1.11
       - langchain-community==0.0.27
       - langchain-core==0.1.30
@@ -136,6 +140,7 @@ dependencies:
       - markdown-it-py==3.0.0
       - markupsafe==2.1.5
       - marshmallow==3.21.1
+      - matplotlib==3.9.0
       - mdurl==0.1.2
       - multiprocess==0.70.16
       - mypy==1.9.0
@@ -153,6 +158,7 @@ dependencies:
       - pydantic-core==2.16.3
       - pymupdf==1.24.7
       - pymupdfb==1.24.6
+      - pyparsing==3.1.2
       - python-dateutil==2.9.0.post0
       - python-dotenv==1.0.1
       - python-slugify==8.0.4

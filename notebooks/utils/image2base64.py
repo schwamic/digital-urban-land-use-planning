@@ -1,6 +1,6 @@
 import base64
 
-"""Converts a PDF file to a base64 string
+"""Converts a image file to a base64 string
 @param: str image_path: path to the image file
 @return: base64 string
 """
