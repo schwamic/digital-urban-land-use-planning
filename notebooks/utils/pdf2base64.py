@@ -3,6 +3,10 @@ import fitz
 from PIL import Image
 import base64
 
+"""Converts a PDF file to a base64 string
+@param: str pdf_path: path to the PDF file
+@return: [base64 string, resolution of the image]
+"""
 def pdf2base64(pdf_path):
     pdf_document = fitz.open(pdf_path)
     page = pdf_document.load_page(0)
