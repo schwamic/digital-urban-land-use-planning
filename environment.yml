@@ -127,6 +127,7 @@ dependencies:
       - dataclasses-json==0.6.4
       - datasets==2.18.0
       - dill==0.3.8
+      - faiss-cpu==1.8.0.post1
       - fonttools==4.53.0
       - humanfriendly==10.0
       - idna==3.6
