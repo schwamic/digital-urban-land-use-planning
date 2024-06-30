@@ -7,9 +7,9 @@ import base64
 @param: str pdf_path: path to the PDF file
 @return: list: [base64 string, resolution of the image]
 """
-def pdf2base64(pdf_path):
+def pdf2base64(pdf_path, page=0):
     pdf_document = fitz.open(pdf_path)
-    page = pdf_document.load_page(0)
+    page = pdf_document.load_page(page)
     pix = page.get_pixmap()
     img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
     img_byte_arr = io.BytesIO()
