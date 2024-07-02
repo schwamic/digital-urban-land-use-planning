@@ -1,5 +1,9 @@
 from utils.pdf2base64 import pdf2base64
 
+"""Converts a PDF file to a list of image_url prompts
+@param: str pdf_path: path to the PDF file
+@return: list of image_url prompts
+"""
 def pdf2prompts(pdf_path):
     prompts = []
     while True:
