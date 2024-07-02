@@ -1,8 +1,10 @@
 # Development
 
-1. Keep conda environment up to date via cli command:
-`conda env export > environment.yml`
-`python -m pip install <lib>`
+1. Keep conda environment up to date via cli commands:
+
+- `conda env export > environment.yml`
+- `pip freeze > requirements.txt`
+- `python -m pip install <lib>` / `conda install`
 
 ## Docs & Guides
 
