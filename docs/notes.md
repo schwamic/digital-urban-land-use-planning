@@ -15,3 +15,6 @@
 ## Textteil (FOKUS)
 * Hier könnte das MLLM seine Stärken ausspielen / Ziel: Informationen zusammenfassen/exktrahieren/...
 * Informationen verknüpfen -> BauGB/BauNVO (RAG)
+
+## Misc
+* Flaschenhals = Context-Window (maximum token count) -> Workarounds nötig wie z.B. Vector-Stores/Embeddings.
