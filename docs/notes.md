@@ -18,3 +18,11 @@
 
 ## Misc
 * Flaschenhals = Context-Window (maximum token count) -> Workarounds nötig wie z.B. Vector-Stores/Embeddings.
+
+
+## Experimente
+Konzeptionelle, qualitative Herangehensweise (Proof Of Concept):
+
+* 3 Cluster (Kriterien: Jahr, Layout, Doc-Typen)
+* Pro Cluster Experimente zur Nutzungsschablone (Level1 + Level2)
+* Evaluation mit Herr Hascher (Interview, 1 B-Plan) + Metriken (Reliability, ...) zu allen 3 Clustern
