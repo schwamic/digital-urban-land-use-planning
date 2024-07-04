@@ -3,6 +3,9 @@
 * Allg. auf Auflösung/Komprimierung achten -> Max: 2000px bzw. 768px
 * Use-Case Data-Extraction: Relevante Infos bzgl. Prüfschema im Genehmigungsprozess
 
+=> Resolution Curse -> Visual Search + Cropping
+=> Missing Know-How -> Bounding-Boxes
+
 ## Planzeichnung
 
 * Schlechte Ergebnisse. Ohne Object-Detection/Fine-Tuning nicht sinnvoll.
