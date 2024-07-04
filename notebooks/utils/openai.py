@@ -19,7 +19,7 @@ class OpenAI:
             model_kwargs={"top_p": 0, "seed": 42},
             temperature=0,
         )
-        
+
     def withContext(self, context):
         self.aiMessage = AIMessage(content=[{
                 "type": "text",
@@ -31,7 +31,7 @@ class OpenAI:
         response = self.client.invoke(instructions)
         self.cache.append(response)
         return response.content
-    
+
     def requestXTimes(self, prompt, times=3):
         prompt_chain = list(map(lambda i: self.request(prompt), range(times)))
         return asyncio.gather(*prompt_chain)
