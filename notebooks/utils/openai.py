@@ -20,11 +20,17 @@ class OpenAI:
             temperature=0,
         )
 
-    def withContext(self, context):
+    def addContext(self, context):
         self.aiMessage = AIMessage(content=[{
                 "type": "text",
                 "text": self.instructions
             }, *context])
+
+    def clearContext(self):
+        self.aiMessage = AIMessage(content=[{
+            "type": "text",
+            "text": self.instructions
+        }])
 
     def request(self, prompt):        
         instructions = [self.aiMessage, HumanMessage(content=prompt)]
@@ -35,3 +41,4 @@ class OpenAI:
     def requestXTimes(self, prompt, times=3):
         prompt_chain = list(map(lambda i: self.request(prompt), range(times)))
         return asyncio.gather(*prompt_chain)
+
