@@ -49,6 +49,24 @@ class Parser:
                 break
         return prompts
 
+    """Converts a image file to a list of image_url prompts
+    @param: str folder_path: path to the folder of the image file
+    @param: str img_name: name of the image file WITHOUT `.<index>.png`
+    @return: list of image_url prompts
+    """
+    def img2prompts(self, folder_path, img_name):
+        prompts = []
+        img_path = f'{folder_path}/{img_name}'
+        while True:
+            try:
+                page_number = len(prompts)+1
+                base64_page, img_size = self.imageToBase64(f'{img_path}.{page_number}.png')
+                image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}","detail": "high"}}
+                prompts.append(image_url_prompt)
+            except Exception:
+                break
+        return prompts
+
     def __imageToBase64(self, img):
         img_byte_arr = io.BytesIO()
         img.save(img_byte_arr, format='PNG')
