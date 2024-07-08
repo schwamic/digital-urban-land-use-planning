@@ -17,15 +17,13 @@
 * Erklärung Nutzungsschablone muss dem LM klar sein. Sonst nicht konkret genug. -> TODO LLM muss Layout besser verstehen [Zeichen + Definition]
 * Tabelle in Tabelle fällt dem LM schwer => Few-Shot könnte da helfen, damit das LM die Tabelle kennt.
 * Bildausschnitt, Auflösung etc. sind wichtige Parameter wie gut OCR klappt.
+* Koordinaten / Geo-Ref. geht verloren.
+* Flaschenhals = Context-Window (maximum token count) -> Workarounds nötig wie z.B. Vector-Stores/Embeddings.
 
 ## Textteil (FOKUS)
 
-* Hier könnte das MLLM seine Stärken ausspielen / Ziel: Informationen zusammenfassen/exktrahieren/...
+* Hier kann das MLLM seine Stärken ausspielen / Ziel: Informationen zusammenfassen/exktrahieren/...
 * Informationen verknüpfen -> BauGB/BauNVO (RAG)
-
-## Misc
-
-* Flaschenhals = Context-Window (maximum token count) -> Workarounds nötig wie z.B. Vector-Stores/Embeddings.
 
 ## Experimente
 
