@@ -31,7 +31,7 @@ class Parser:
     @return: list of text prompts
     """
     def text2prompts(self, list_text):
-        return list(map(lambda item: {"type": "text", "text": item}, list_text))
+        return list(map(lambda text: {"type": "text", "text": text}, list_text))
 
     """Converts a PDF file to a list of image_url prompts
     @param: str pdf_path: path to the PDF file
@@ -49,12 +49,12 @@ class Parser:
                 break
         return prompts
 
-    """Converts a image file to a list of image_url prompts
+    """Converts a series of image files to a list of image_url prompts
     @param: str folder_path: path to the folder of the image file
     @param: str img_name: name of the image file WITHOUT `.<index>.png`
     @return: list of image_url prompts
     """
-    def img2prompts(self, folder_path, img_name):
+    def images2prompts(self, folder_path, img_name):
         prompts = []
         img_path = f'{folder_path}/{img_name}'
         while True:
