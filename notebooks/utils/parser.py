@@ -49,6 +49,15 @@ class Parser:
                 break
         return prompts
 
+    """Converts an image files to image_url prompt
+    @param: str img_path: path to the image file
+    @return: dict: image_url prompt
+    """
+    def image2prompt(self, img_path):
+        base64_page, img_size = self.imageToBase64(img_path)
+        image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}","detail": "high"}}
+        return image_url_prompt
+
     """Converts a series of image files to a list of image_url prompts
     @param: str folder_path: path to the folder of the image file
     @param: str img_name: name of the image file WITHOUT `.<index>.png`
@@ -60,8 +69,7 @@ class Parser:
         while True:
             try:
                 page_number = len(prompts)+1
-                base64_page, img_size = self.imageToBase64(f'{img_path}.{page_number}.png')
-                image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}","detail": "high"}}
+                image_url_prompt = self.image2prompt(f'{img_path}.{page_number}.png')
                 prompts.append(image_url_prompt)
             except Exception:
                 break

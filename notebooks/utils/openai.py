@@ -46,22 +46,17 @@ class OpenAI:
 
     async def extractTextFromImage(self, instruction, img_path, img_type="png"):
         if img_type == "pdf":
-            img_base64, *rest = self.parser.pdfToBase64(img_path)
+            prompts = self.parser.pdf2prompts(img_path)
         else:
-            img_base64, *rest = self.parser.imageToBase64(img_path)
-            message = self.request([
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": f"data:image/jpeg;base64,{img_base64}",
-                        "detail": "high"
-                    }
-                },
-                {
-                    "type": "text",
-                    "text": instruction,
-                },
-            ])
+            img_prompt = self.parser.image2prompt(img_path)
+            prompts = [img_prompt]
+        message = self.request([
+            *prompts,
+            {
+                "type": "text",
+                "text": instruction,
+            },
+        ])
         return message
 
     async def extractTextFromImages(self, instruction, img_paths, img_type="png"):
