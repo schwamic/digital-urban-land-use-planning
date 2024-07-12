@@ -32,3 +32,16 @@ Konzeptionelle, qualitative Herangehensweise (Proof Of Concept):
 * 3 Cluster (Kriterien: Jahr, Layout, Doc-Typen)
 * Pro Cluster Experimente zur Nutzungsschablone (Level1 + Level2)
 * Evaluation mit Herr Hascher (Interview, 1 B-Plan) + Metriken (Reliability, ...) zu allen 3 Clustern
+
+## Tutorials
+
+1. [LinkedIn Learning](https://www.linkedin.com/learning/developing-with-nondeterministic-apis/setting-a-seed-value?resume=false&u=67660530)
+2. ...
+
+
+## EVALUATION
+
+* BB enhalten kleine Fehler
+* Visual Search + Cropping -> nutzbare Ergebnisse
+* OCR sehr gut in GPT-4o, solange Bildauflösung ausreicht
+* Textverständnis abhängig von Kontext, Prompt und Archhitektur
