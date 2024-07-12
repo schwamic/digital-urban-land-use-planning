@@ -40,6 +40,12 @@ class OpenAI:
         self.cache.append(response)
         return response.content
 
+    def requestWithContext(self, context, prompt):
+        self.addContext(context)
+        response = self.request(prompt)
+        self.clearContext()
+        return response
+
     async def requestXTimes(self, prompt, times=3):
         prompt_chain = list(map(lambda i: self.request(prompt), range(times)))
         return await asyncio.gather(*prompt_chain)
@@ -72,3 +78,13 @@ class OpenAI:
             messages.append(msg)
             self.clearContext()
         return messages
+
+    def extractTextFromFilteredPrompts(self, pages, prompts, instruction, context):
+        filtered_prompts = list(map(lambda page: prompts[page-1], pages))
+        return self.requestWithContext(context, [
+            *filtered_prompts,
+            {
+                "type": "text",
+                "text": instruction
+            },
+        ])
