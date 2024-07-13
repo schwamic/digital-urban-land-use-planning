@@ -1,8 +1,11 @@
 from dotenv import load_dotenv, find_dotenv
+from dotmap import DotMap
 import os
 import asyncio
-from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain.schema.messages import AIMessage, HumanMessage
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
 from utils.parser import Parser
 
 class OpenAI:
@@ -20,6 +23,10 @@ class OpenAI:
             model_name="gpt-4o",
             model_kwargs={"top_p": 0, "seed": 42},
             temperature=0,
+        )
+        self.clientEmbeddings = OpenAIEmbeddings(
+            api_key=os.getenv("OPENAI_API_KEY"),
+            model="text-embedding-3-large",
         )
 
     def addContext(self, context):
@@ -46,10 +53,18 @@ class OpenAI:
         self.clearContext()
         return response
 
-    async def requestXTimes(self, prompt, times=3):
-        prompt_chain = list(map(lambda i: self.request(prompt), range(times)))
-        return await asyncio.gather(*prompt_chain)
+    '''Utility/Workaround to call request() in a lamda function in combination with asyncio
+    @param: list: prompts
+    @return: str: message
+    '''
+    async def lambdaRequest(self, prompts):
+        return self.request(prompts)
 
+    '''Utility to extract text from an image or pdf
+    @param: str: instruction
+    @param: str: img_path
+    @return: str: message
+    '''
     async def extractTextFromImage(self, instruction, img_path, img_type="png"):
         if img_type == "pdf":
             prompts = self.parser.pdf2prompts(img_path)
@@ -65,10 +80,21 @@ class OpenAI:
         ])
         return message
 
+    '''Utility to extract text from a list of images
+    @param: str: instruction
+    @param: list: img_paths
+    @return: list: messages
+    '''
     async def extractTextFromImages(self, instruction, img_paths, img_type="png"):
         requests = list(map(lambda img_path: self.extractTextFromImage(instruction, img_path, img_type), img_paths))
         return await asyncio.gather(*requests)
 
+    '''Utility to extract text from a list of images with a list of contexts
+    @param: str: instruction
+    @param: list: img_paths
+    @param: list: contexts
+    @return: list: messages
+    '''
     async def extractTextFromImagesWithContexts(self, instruction, img_paths, contexts, img_type="png"):
         messages = []
         for index, img_path in enumerate(img_paths):
@@ -79,7 +105,14 @@ class OpenAI:
             self.clearContext()
         return messages
 
-    def extractTextFromFilteredPrompts(self, pages, prompts, instruction, context):
+    '''Utility to extract text from specific pages
+    @param: list: pages (filter)
+    @param: list: prompts
+    @param: str: instruction
+    @param: list: context
+    @return: list: messages
+    '''
+    def extractTextFromFilteredPromptsWithContext(self, pages, prompts, instruction, context):
         filtered_prompts = list(map(lambda page: prompts[page-1], pages))
         return self.requestWithContext(context, [
             *filtered_prompts,
@@ -88,3 +121,30 @@ class OpenAI:
                 "text": instruction
             },
         ])
+
+    '''Utility to extract text via vectorstore
+    @param: str: query
+    @param: list: parts of text (data)
+    @return: str, list: message, retrieved documents
+    '''
+    def similaritySearchWithContext(self, query, data, context, chunk_size=1000, k=25):
+        # create text chunks
+        documents = list(map(lambda item: DotMap({"page_content":item[1], "metadata": DotMap({"page": item[0]+1})}), enumerate(data)))
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size)
+        splits = text_splitter.split_documents(documents)
+        # init vectorstore
+        vectorstore = Chroma()
+        vectorstore.reset_collection()
+        vectorstore = Chroma.from_documents(documents=splits, embedding=self.clientEmbeddings)
+        retrieved_docs = vectorstore.similarity_search_with_relevance_scores(query, k=k)
+        # extract text
+        retrieved_text = list(map(lambda item: item[0].page_content, retrieved_docs))
+        text_prompts = self.parser.text2prompts(retrieved_text)
+        result = self.requestWithContext(context, [
+            *text_prompts,
+                {
+                "type": "text",
+                "text": query
+            }
+        ])
+        return [result, retrieved_docs]
