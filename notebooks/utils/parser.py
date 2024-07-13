@@ -63,7 +63,7 @@ class Parser:
     @param: str img_name: name of the image file WITHOUT `.<index>.png`
     @return: list of image_url prompts
     """
-    def images2prompts(self, folder_path, img_name):
+    def imageseries2prompts(self, folder_path, img_name):
         prompts = []
         img_path = f'{folder_path}/{img_name}'
         while True:
