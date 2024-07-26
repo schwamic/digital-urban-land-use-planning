@@ -1,6 +1,6 @@
 # Development
 
-1. Keep conda environment up to date via cli commands:
+Keep conda environment up to date via cli commands:
 
 - `conda env export > environment.yml`
 - `pip freeze > requirements.txt`
@@ -8,7 +8,7 @@
 
 ## Docs & Guides
 
-1. [CookieCutter Docs](https://cookiecutter-data-science.drivendata.org/)
-2. [Conda Docs](https://docs.conda.io/projects/conda/en/stable/user-guide/index.html)
-3. [OpenAI Docs](https://platform.openai.com/docs/quickstart)
-4. [Prompting Guide](https://www.promptingguide.ai/techniques)
+- [CookieCutter](https://cookiecutter-data-science.drivendata.org/)
+- [Conda](https://docs.conda.io/projects/conda/en/stable/user-guide/index.html)
+- [OpenAI](https://platform.openai.com/docs/quickstart)
+- [Prompting](https://www.promptingguide.ai/techniques)
