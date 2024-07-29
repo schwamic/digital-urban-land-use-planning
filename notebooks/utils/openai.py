@@ -89,7 +89,7 @@ class OpenAI:
         requests = list(map(lambda img_path: self.extractTextFromImage(instruction, img_path, img_type), img_paths))
         return await asyncio.gather(*requests)
 
-    '''Utility to extract text from a list of images with a list of contexts
+    '''Utility to extract text from a list of images with a list of contexts. One image per thread.
     @param: str: instruction
     @param: list: img_paths
     @param: list: contexts

@@ -43,7 +43,7 @@ class Parser:
             try:
                 page_number = len(prompts)
                 base64_page, img_size = self.pdfToBase64(pdf_path, page_number)
-                image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}","detail": "high"}}
+                image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}", "detail": "high"}}
                 prompts.append(image_url_prompt)
             except Exception:
                 break
@@ -55,7 +55,7 @@ class Parser:
     """
     def image2prompt(self, img_path):
         base64_page, img_size = self.imageToBase64(img_path)
-        image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}","detail": "high"}}
+        image_url_prompt = {"type": "image_url","image_url": {"url": f"data:image/jpeg;base64,{base64_page}", "detail": "high"}}
         return image_url_prompt
 
     """Converts a series of image files to a list of image_url prompts
