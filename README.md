@@ -6,7 +6,7 @@
 ## Citing
 
 ```bibtex
-@masterthesis{schwarz-2024-digital,
+@masterthesis{schwarz-2024-urban,
   title        = {Digital Urban Land-Use Planning – How AI Systems Understand Development Plans},
   author       = {Schwarz, M.},
   year         = 2024,
