@@ -1,7 +1,7 @@
 # Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
 
 * Project is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">Cookiecutter Data Science Project Template</a>.
-* To run the notebooks you need to add a `.env` file with a valid `OPENAI_API_KEY=...`
+* To run the notebooks you need to add a `.env` file with a valid `OPENAI_API_KEY=...`. An Open AI Tier 2 account is required to execute all prompts.
 * [Developer Guide](./docs/dev.md)
 
 ## Citing
